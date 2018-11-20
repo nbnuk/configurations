@@ -1,0 +1,14 @@
+A download file has been generated on [date] via the search: [searchUrl].
+
+Please download your file from [url]. The download will be available for a month and then it will be deleted.
+When using this download please use the following citation: NBN Atlas occurrence download at NBN Atlas <https://nbnatlas.org> accessed on [date].
+
+Your download includes a Readme file, which lists all the data providers. Please read our General Guidelines for using data downloaded from the NBN Atlas, which can be found here: Guidance for using data <https://docs.nbnatlas.org/guidance-for-using-data/> and ensure that all data providers are acknowledged correctly. All data on the NBN Atlas has an associated licence, which outlines the circumstances under which the data can be used. The type of data licence assigned can be found in the dataset metadata and with each record downloaded. More information on all of the available licences can be found on the Data licences page <https://docs.nbnatlas.org/data-licenses/>.
+
+Please note that CC-BY-NC licensed records included in this download cannot be used for commercial purposes without the permission of the data provider.
+
+
+National Biodiversity Network website: NBN <https://nbn.org.uk>
+NBN Atlas: <https://nbnatlas.org>
+NBN Trust - Registered in England and Wales - Company no.3963387 - Registered charity no. 1082163.
+Registered office of the NBN Trust: Unit F, 14-18 St Mary's Gate, Lace Market, Nottingham, NG1 1PF

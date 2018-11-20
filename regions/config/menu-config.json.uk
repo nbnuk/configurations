@@ -1,0 +1,14 @@
+[
+{
+  "label": "National parks",
+  "fid": "cl5"
+}
+,{
+  "label": "Ordnance survey 100km grids",
+  "fid": "cl20"
+}
+,{
+  "label": "Local Environmental Records Centre Boundaries",
+  "fid": "cl84"
+}
+]

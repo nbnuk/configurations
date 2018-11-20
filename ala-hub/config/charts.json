@@ -1,0 +1,63 @@
+{
+    "biocache": {
+        "family": {
+            "title": "By family",
+            "chartType": "doughnut",
+            "emptyValueMsg": "Family not specified",
+            "hideEmptyValues": true,
+            "includeOther": "false"
+        },
+        "genus": {
+            "title": "By genus",
+            "chartType": "doughnut",
+            "emptyValueMsg": "Genus not specified",
+            "hideEmptyValues": true,
+            "includeOther": "false"
+        },
+        "license": {
+            "title": "By licence",
+            "chartType": "doughnut",
+            "emptyValueMsg": "Licence not specified",
+            "hideEmptyValues": true,
+            "includeOther": "false"
+        },        
+        "month": {
+            "title": "By month",
+            "chartType": "bar",
+            "emptyValueMsg": "Month not specified",
+            "hideEmptyValues": false,
+            "includeOther": "false"
+        },
+        "decade": {
+            "title": "By decade",
+            "chartType": "bar",
+            "emptyValueMsg": "Year not specified",
+            "hideEmptyValues": false,
+            "includeOther": "false"
+        },
+        "year" : {
+            "title": "Years since 1990",
+            "chartType": "bar",
+            "emptyValueMsg": "Year not specified",
+            "hideEmptyValues" : true,
+            "filter": "fq=year:[1990 TO *]",
+            "includeOther": "false"
+        },
+        "cl14": {
+            "title": "By Watsonian Vice County",
+            "chartType": "bar",
+            "emptyValueMsg": "County not specified",
+            "hideEmptyValues": false,
+            "includeOther": "false",
+            "growToFit" : true,
+            "trimLabels" : true
+        },
+        "cl28": {
+            "title": "By country",
+            "chartType": "bar",
+            "emptyValueMsg": "Country not specified",
+            "hideEmptyValues": false,
+            "includeOther": "false"
+        }
+    }
+}

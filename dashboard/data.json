@@ -1,0 +1,37 @@
+{
+"taxaCounts": {
+	"acceptedNames": 107316,
+	"acceptedSpeciesNames": 71980,
+	"synonymNames": 159531,
+	"speciesWithRecords": 54953
+	},
+"collections": {
+	"total": 149,
+	"plants": 20,
+	"micro": 12,
+	"insects": 34,
+	"otherFauna": 39
+	},
+"bhlCounts": {
+	"pages": 0,
+	"titles": 0,
+	"volumes": 0,
+	"publishers": 0
+	},
+"boldCounts": {
+	"records": 0,
+	"species": 0,
+	"countries": 0,
+	"institutions": 0
+	},
+"identifyLife": {
+	"keys": 0
+	},
+ "volunteerPortalCounts": {
+ 	"recordsTranscribed": 0,
+ 	"pagesTranscribed": 0,
+ 	"volunteers": 0,
+ 	"activeProjects": 0,
+ 	"completedProjects": 0
+ 	}
+}

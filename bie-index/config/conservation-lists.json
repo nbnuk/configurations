@@ -1,0 +1,118 @@
+{
+  "defaultSourceField": "status",
+  "deleteFirst": "listMembership_m_s,riskAssessment_m_s,riskAssessmentImpact_m_s,managementPlans_m_s",
+  "lists": [
+    {
+      "uid": "dr1818",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "GB NNSS ALERT SPECIES",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1825",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "WCA 1981 SCHEDULE 9",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1831",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "INNS - WALES PRIORITY SPECIES FOR ACTION",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1568",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "EU INVASIVE ALIEN SPECIES REGULATION",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1697",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "NRW SUSTAINABLE MANAGEMENT OF NATURAL RESOURCES (SMNR)",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1830",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "CONTINGENCY PLAN SPECIES FOR WALES",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1832",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "WG INNS COMPLETE LIST",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1854",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "MSFD - UK PRIORITY SPECIES",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1863",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "WFD UKTAG AQUATIC ALIEN SPECIES IMPACT",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1865",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "WFD UKTAG ALARM SPECIES",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1863",
+      "sourceField": "Impact",
+      "field": "riskAssessmentImpact_m_s",
+      "action": "add",
+      "term": "INNS risk assessment: WFD UKTAG AQUATIC ALIEN SPECIES IMPACT",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1864",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "WALES MARINE MONITORING AND SURVEILLANCE",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1864",
+      "sourceField": "Risk",
+      "field": "riskAssessment_m_s",
+      "action": "add",
+      "term": "INNS risk assessment: WALES MARINE MONITORING AND SURVEILLANCE",
+      "label": "INNS"
+    },
+    {
+      "uid": "dr1831",
+      "sourceField": "Priority",
+      "field": "managementPlans_m_s",
+      "action": "add",
+      "term": "INNS management plans: INNS - WALES PRIORITY SPECIES FOR ACTION",
+      "label": "INNS"
+    }
+  ]
+}
