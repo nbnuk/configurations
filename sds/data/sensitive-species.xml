@@ -614,6 +614,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Nyctalus leisleri" family="Vespertilionidae" guid="NHMSYS0000080185" rank="SPECIES" commonName="Leisler's Bat">
 <instances>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                    
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
@@ -622,6 +623,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Nyctalus noctula" family="Vespertilionidae" guid="NHMSYS0000080186" rank="SPECIES" commonName="Noctule Bat">
 <instances>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                 
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
@@ -898,7 +900,7 @@
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
-</sensitiveSpecies>
+</sensitiveSpecies>                                                                                                                               
 <sensitiveSpecies name="Rhinolophus euryale" family="Rhinolophidae" guid="NHMSYS0000377177" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
