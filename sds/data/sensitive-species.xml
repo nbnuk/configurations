@@ -290,7 +290,8 @@
   <sensitiveSpecies name="Vespertilio murinus" family="Vespertilionidae" guid="NBNSYS0000005095" rank="SPECIES" commonName="Parti-Coloured Bat">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -298,16 +299,17 @@
   <sensitiveSpecies name="Plecotus auritus" family="Vespertilionidae" guid="NBNSYS0000005102" rank="SPECIES" commonName="Brown Long-Eared Bat">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Plecotus austriacus" family="Vespertilionidae" guid="NBNSYS0000005103" rank="SPECIES" commonName="Grey Long-Eared Bat">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -333,14 +335,18 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Myotis dasycneme" family="Vespertilionidae" guid="NBNSYS0000005153" rank="SPECIES" commonName="">
     <instances>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Myotis emarginatus" family="Vespertilionidae" guid="NBNSYS0000005154" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Myotis emarginatus" family="Vespertilionidae" guid="NBNSYS0000005154" rank="SPECIES" commonName="Geoffroy's Bat">
     <instances>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -555,7 +561,8 @@
   <sensitiveSpecies name="Pipistrellus pygmaeus" family="Vespertilionidae" guid="NBNSYS0100004720" rank="SPECIES" commonName="Soprano Pipistrelle">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -564,7 +571,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -573,7 +580,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -582,16 +589,16 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Myotis myotis" family="Vespertilionidae" guid="NHMSYS0000080182" rank="SPECIES" commonName="Mouse-Eared Batclustlydan"">
+  <sensitiveSpecies name="Myotis myotis" family="Vespertilionidae" guid="NHMSYS0000080182" rank="SPECIES" commonName="Mouse-Eared Bat"">
   <instances>
     <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-    <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+    <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
     <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
     <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
   </instances>
@@ -599,7 +606,8 @@
 <sensitiveSpecies name="Myotis mystacinus" family="Vespertilionidae" guid="NHMSYS0000080183" rank="SPECIES" commonName="Whiskered Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                  
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -607,7 +615,8 @@
 <sensitiveSpecies name="Myotis nattereri" family="Vespertilionidae" guid="NHMSYS0000080184" rank="SPECIES" commonName="Natterer's Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                             
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -616,7 +625,7 @@
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                    
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -625,7 +634,7 @@
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                 
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -633,7 +642,8 @@
 <sensitiveSpecies name="Pipistrellus nathusii" family="Vespertilionidae" guid="NHMSYS0000080187" rank="SPECIES" commonName="Nathusius' Pipistrelle">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                    
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -868,13 +878,14 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Pipistrellus kuhlii" family="Vespertilionidae" guid="NHMSYS0000377112" rank="SPECIES" commonName="Kuhl's Pipistrelle">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>                                                                                                                            
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Pipistrellus maderensis" family="Vespertilionidae" guid="NHMSYS0000377116" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Pipistrellus maderensis" family="Vespertilionidae" guid="NHMSYS0000377116" rank="SPECIES" commonName="Madeira Pipistrelle">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
@@ -1050,7 +1061,8 @@
 <sensitiveSpecies name="Eptesicus nilssonii" family="Vespertilionidae" guid="NHMSYS0000528007" rank="SPECIES" commonName="Northern Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                            
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1058,7 +1070,8 @@
 <sensitiveSpecies name="Eptesicus serotinus" family="Vespertilionidae" guid="NHMSYS0000528008" rank="SPECIES" commonName="Serotine Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                             
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1067,7 +1080,7 @@
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1075,7 +1088,8 @@
 <sensitiveSpecies name="Myotis brandtii" family="Vespertilionidae" guid="NHMSYS0000528026" rank="SPECIES" commonName="Brandt's Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                           
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1083,7 +1097,8 @@
 <sensitiveSpecies name="Myotis daubentonii" family="Vespertilionidae" guid="NHMSYS0000528028" rank="SPECIES" commonName="Daubenton's Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                  
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1091,7 +1106,8 @@
 <sensitiveSpecies name="Myotis lucifugus" family="Vespertilionidae" guid="NHMSYS0000528029" rank="SPECIES" commonName="Little Brown Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                 
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1446,7 +1462,8 @@
 <sensitiveSpecies name="Pipistrellus pipistrellus" family="Vespertilionidae" guid="NHMSYS0020001355" rank="SPECIES" commonName="Common Pipistrelle">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                 
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1466,7 +1483,7 @@
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1484,8 +1501,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Hypsugo savii" family="Vespertilionidae" guid="NHMSYS0020774288" rank="SPECIES" commonName="Savi's Pipistrelle">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>                                                                                                                       
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
