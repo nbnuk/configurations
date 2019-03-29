@@ -16,7 +16,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Anas querquedula" family="Anatidae" guid="NBNSYS0000000136" rank="SPECIES" commonName="Garganey">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
@@ -30,14 +30,14 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Numenius phaeopus" family="Scolopacidae" guid="NBNSYS0000000144" rank="SPECIES" commonName="Whimbrel">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Limosa limosa" family="Scolopacidae" guid="NBNSYS0000000145" rank="SPECIES" commonName="Black-tailed Godwit">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
@@ -49,13 +49,13 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Tringa glareola" family="Scolopacidae" guid="NBNSYS0000000148" rank="SPECIES" commonName="Wood Sandpiper">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Tringa nebularia" family="Scolopacidae" guid="NBNSYS0000000150" rank="SPECIES" commonName="Greenshank">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
@@ -67,7 +67,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Charadrius dubius" family="Charadriidae" guid="NBNSYS0000000162" rank="SPECIES" commonName="Little Ringed Plover">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
@@ -75,19 +75,19 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Calidris maritima" family="Scolopacidae" guid="NBNSYS0000000167" rank="SPECIES" commonName="Purple sandpiper">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10000km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Phalaropus lobatus" family="Phalaropodidae" guid="NBNSYS0000000172" rank="SPECIES" commonName="Red-necked phalarope">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Calidris temminckii" family="Scolopacidae" guid="NBNSYS0000000174" rank="SPECIES" commonName="Temminck's stint">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10000km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
@@ -112,177 +112,177 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Anas acuta" family="Anatidae" guid="NBNSYS0000000189" rank="SPECIES" commonName="Pintail">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Bucephala clangula" family="Anatidae" guid="NBNSYS0000000191" rank="SPECIES" commonName="Common Goldeneye">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Melanitta nigra" family="Anatidae" guid="NBNSYS0000000196" rank="SPECIES" commonName="Common Scoter">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Somateria mollissima" family="Anatidae" guid="NBNSYS0000000197" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Somateria mollissima" family="Anatidae" guid="NBNSYS0000000197" rank="SPECIES" commonName="Common eider">
     <instances>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Cygnus cygnus" family="Anatidae" guid="NBNSYS0000000199" rank="SPECIES" commonName="Whooper Swan">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Gavia stellata" family="Gaviidae" guid="NBNSYS0000000218" rank="SPECIES" commonName="Red throated Diver">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Gavia arctica" family="Gaviidae" guid="NBNSYS0000000219" rank="SPECIES" commonName="Black Throated Diver">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Podiceps auritus" family="Podicipedidae" guid="NBNSYS0000000224" rank="SPECIES" commonName="Slavonian Grebe">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Podiceps nigricollis" family="Podicipedidae" guid="NBNSYS0000000225" rank="SPECIES" commonName="Black-necked Grebe">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Plegadis falcinellus" family="Threskiornithidae" guid="NBNSYS0000000254" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Plegadis falcinellus" family="Threskiornithidae" guid="NBNSYS0000000254" rank="SPECIES" commonName="Glossy Ibis">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Platalea leucorodia" family="Threskiornithidae" guid="NBNSYS0000000255" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Platalea leucorodia" family="Threskiornithidae" guid="NBNSYS0000000255" rank="SPECIES" commonName="Eurasian Spoonbill">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Haliaeetus albicilla" family="Accipitridae" guid="NBNSYS0000000281" rank="SPECIES" commonName="White-Tailed Eagle">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Pandion haliaetus" family="Accipitridae" guid="NBNSYS0000000292" rank="SPECIES" commonName="Osprey">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Larus melanocephalus" family="Laridae" guid="NBNSYS0000000345" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Larus melanocephalus" family="Laridae" guid="NBNSYS0000000345" rank="SPECIES" commonName="Mediterranean Gull">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Sterna dougallii" family="Sternidae" guid="NBNSYS0000000364" rank="SPECIES" commonName="Roseate tern">
+  <sensitiveSpecies name="dougallii" family="Sternidae" guid="NBNSYS0000000364" rank="SPECIES" commonName="Roseate tern">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Cepphus grylle" family="Alcidae" guid="NBNSYS0000000376" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Cepphus grylle" family="Alcidae" guid="NBNSYS0000000376" rank="SPECIES" commonName="Black Guillemot">
     <instances>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Trichomanes speciosum" family="Hymenophyllaceae" guid="NBNSYS0000002028" rank="SPECIES" commonName="Killarney fern">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resorces Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Woodsia alpina" family="Woodsiaceae" guid="NBNSYS0000002062" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Woodsia alpina" family="Woodsiaceae" guid="NBNSYS0000002062" rank="SPECIES" commonName="Alpine Woodsia">
     <instances>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Baldellia ranunculoides" family="Alismataceae" guid="NBNSYS0000002099" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Baldellia ranunculoides" family="Alismataceae" guid="NBNSYS0000002099" rank="SPECIES" commonName="Lesser-Water plantain">
     <instances>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Cypripedium calceolus" family="Orchidaceae" guid="NBNSYS0000002284" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Cypripedium calceolus" family="Orchidaceae" guid="NBNSYS0000002284" rank="SPECIES" commonName="Lady's Slipper Orchid">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Epipogium aphyllum" family="Orchidaceae" guid="NBNSYS0000002295" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Epipogium aphyllum" family="Orchidaceae" guid="NBNSYS0000002295" rank="SPECIES" commonName="Ghost Orchid">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Ophrys fuciflora" family="Orchidaceae" guid="NBNSYS0000002316" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Ophrys fuciflora" family="Orchidaceae" guid="NBNSYS0000002316" rank="SPECIES" commonName="Late Spider Orchid">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Ophrys insectifera" family="Orchidaceae" guid="NBNSYS0000002318" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Ophrys insectifera" family="Orchidaceae" guid="NBNSYS0000002318" rank="SPECIES" commonName="Fly Orchid">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Orchis militaris" family="Orchidaceae" guid="NBNSYS0000002321" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Orchis militaris" family="Orchidaceae" guid="NBNSYS0000002321" rank="SPECIES" commonName="Military Orchid">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Orchis simia" family="Orchidaceae" guid="NBNSYS0000002322" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Orchis simia" family="Orchidaceae" guid="NBNSYS0000002322" rank="SPECIES" commonName="Monkey Orchid">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Minuartia stricta" family="Caryophyllaceae" guid="NBNSYS0000003054" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Minuartia stricta" family="Caryophyllaceae" guid="NBNSYS0000003054" rank="SPECIES" commonName="Teesdale Sandwort">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Potentilla rupestris" family="Rosaceae" guid="NBNSYS0000003340" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Potentilla rupestris" family="Rosaceae" guid="NBNSYS0000003340" rank="SPECIES" commonName="Rock Cinquefoil">
     <instances>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Saxifraga cernua" family="Saxifragaceae" guid="NBNSYS0000003500" rank="SPECIES" commonName="Drooping saxifrage">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Veronica montana" family="Plantaginaceae" guid="NBNSYS0000004103" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Veronica montana" family="Plantaginaceae" guid="NBNSYS0000004103" rank="SPECIES" commonName="Wood Speedwell">
     <instances>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Crepis foetida" family="Asteraceae" guid="NBNSYS0000004571" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Crepis foetida" family="Asteraceae" guid="NBNSYS0000004571" rank="SPECIES" commonName="Stinking Hawk's Beard">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Vipera berus" family="Viperidae" guid="NBNSYS0000005075" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Vipera berus" family="Viperidae" guid="NBNSYS0000005075" rank="SPECIES" commonName="Adder">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
     </instances>
@@ -291,7 +291,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -300,7 +300,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -309,7 +309,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -322,22 +322,23 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Phoca vitulina" family="Phocidae" guid="NBNSYS0000005135" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Phoca vitulina" family="Phocidae" guid="NBNSYS0000005135" rank="SPECIES" commonName="Harbour Seal">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Halichoerus grypus" family="Phocidae" guid="NBNSYS0000005137" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Halichoerus grypus" family="Phocidae" guid="NBNSYS0000005137" rank="SPECIES" commonName="Grey Seal">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Myotis dasycneme" family="Vespertilionidae" guid="NBNSYS0000005153" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Myotis dasycneme" family="Vespertilionidae" guid="NBNSYS0000005153" rank="SPECIES" commonName="Pond Bat">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -358,7 +359,7 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Balaenoptera physalus" family="Balaenopteridae" guid="NBNSYS0000005160" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Balaenoptera physalus" family="Balaenopteridae" guid="NBNSYS0000005160" rank="SPECIES" commonName="Fin Whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -372,7 +373,7 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Balaenoptera musculus" family="Balaenopteridae" guid="NBNSYS0000005163" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Balaenoptera musculus" family="Balaenopteridae" guid="NBNSYS0000005163" rank="SPECIES" commonName="Blue Whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -449,7 +450,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Hammerschmidtia ferruginea" family="Syrphidae" guid="NBNSYS0000007021" rank="SPECIES" commonName="Aspen hoverfly">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
@@ -459,7 +460,7 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Hericium coralloides" family="Hericiaceae" guid="NBNSYS0000020829" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Hericium coralloides" family="Hericiaceae" guid="NBNSYS0000020829" rank="SPECIES" commonName="Coral Tooth Fungus">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
@@ -495,7 +496,7 @@
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Physeter macrocephalus" family="Physeteridae" guid="NBNSYS0000163066" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Physeter macrocephalus" family="Physeteridae" guid="NBNSYS0000163066" rank="SPECIES" commonName="Sperm Whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -571,7 +572,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -580,7 +581,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -589,7 +590,7 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
@@ -598,7 +599,7 @@
   <instances>
     <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-    <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+    <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
     <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
     <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
   </instances>
@@ -657,19 +658,19 @@
 <sensitiveSpecies name="Meles meles" family="Mustelidae" guid="NHMSYS0000080191" rank="SPECIES" commonName="Badger">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                   
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Balaenoptera acutorostrata" family="Balaenopteridae" guid="NHMSYS0000080192" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Balaenoptera acutorostrata" family="Balaenopteridae" guid="NHMSYS0000080192" rank="SPECIES" commonName="Minke Whale">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Globicephala melas" family="Delphinidae" guid="NHMSYS0000080193" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Globicephala melas" family="Delphinidae" guid="NHMSYS0000080193" rank="SPECIES" commonName="Long-Finned Pilot Whale">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -683,14 +684,14 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Lagenorhynchus acutus" family="Delphinidae" guid="NHMSYS0000080195" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Lagenorhynchus acutus" family="Delphinidae" guid="NHMSYS0000080195" rank="SPECIES" commonName="Atlantic White-Sided Dolphin">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Lagenorhynchus albirostris" family="Delphinidae" guid="NHMSYS0000080196" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Lagenorhynchus albirostris" family="Delphinidae" guid="NHMSYS0000080196" rank="SPECIES" commonName="White-Beaked Dolphin">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -721,9 +722,9 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Leiocolea rutheana" family="Mesoptychiaceae" guid="NHMSYS0000310136" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Leiocolea rutheana" family="Mesoptychiaceae" guid="NHMSYS0000310136" rank="SPECIES" commonName="Fen Notchwort">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -739,7 +740,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Felis silvestris" family="Felidae" guid="NHMSYS0000332741" rank="SPECIES" commonName="Wildcat">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -988,7 +989,7 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Gladiolus illyricus" family="Iridaceae" guid="NHMSYS0000459073" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Gladiolus illyricus" family="Iridaceae" guid="NHMSYS0000459073" rank="SPECIES" commonName="Wild Gladiolus">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
@@ -998,7 +999,7 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Hymenophyllum tunbrigense" family="Hymenophyllaceae" guid="NHMSYS0000459844" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Hymenophyllum tunbrigense" family="Hymenophyllaceae" guid="NHMSYS0000459844" rank="SPECIES" commonName="Tunbridge Filmy Fern">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
@@ -1008,7 +1009,7 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Ophrys sphegodes" family="Orchidaceae" guid="NHMSYS0000461300" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Ophrys sphegodes" family="Orchidaceae" guid="NHMSYS0000461300" rank="SPECIES" commonName="Early Spider Orchid">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
@@ -1040,15 +1041,15 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Woodsia ilvensis" family="Woodsiaceae" guid="NHMSYS0000465076" rank="SPECIES" commonName="Oblong woodsia">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Zygaena exulans" family="Zygaenidae" guid="NHMSYS0000520663" rank="SPECIES" commonName="Scotch/Mountain Burnet Moth">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1114,9 +1115,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Accipiter gentilis" family="Accipitridae" guid="NHMSYS0000530119" rank="SPECIES" commonName="Goshawk">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1132,7 +1133,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Aquila chrysaetos" family="Accipitridae" guid="NHMSYS0000530170" rank="SPECIES" commonName="Golden Eagle">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="50km" zone="England"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
@@ -1144,7 +1145,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Asio flammeus" family="Strigidae" guid="NHMSYS0000530180" rank="SPECIES" commonName="Short-eared Owl">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
@@ -1174,9 +1175,9 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Caprimulgus europaeus" family="Caprimulgidae" guid="NHMSYS0000530242" rank="SPECIES" commonName="Night jar">
+<sensitiveSpecies name="Caprimulgus europaeus" family="Caprimulgidae" guid="NHMSYS0000530242" rank="SPECIES" commonName="Nightjar">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="2km" zone="England"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
@@ -1189,7 +1190,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Circus aeruginosus" family="Accipitridae" guid="NHMSYS0000530293" rank="SPECIES" commonName="Marsh Harrier">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="2km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
@@ -1197,9 +1198,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Circus cyaneus" family="Accipitridae" guid="NHMSYS0000530294" rank="SPECIES" commonName="Hen harrier">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
@@ -1239,18 +1240,18 @@
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Falco peregrinus" family="Falconidae" guid="NHMSYS0000530354" rank="SPECIES" commonName="Peregrine">
+<sensitiveSpecies name="Falco peregrinus" family="Falconidae" guid="NHMSYS0000530354" rank="SPECIES" commonName="Peregrine Falcon">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Falco subbuteo" family="Falconidae" guid="NHMSYS0000530357" rank="SPECIES" commonName="Hobby">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
@@ -1258,7 +1259,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Fringilla montifringilla" family="Fringillidae" guid="NHMSYS0000530368" rank="SPECIES" commonName="Brambling">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1289,7 +1290,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Milvus milvus" family="Accipitridae" guid="NHMSYS0000530482" rank="SPECIES" commonName="Red Kite">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
@@ -1306,9 +1307,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Panurus biarmicus" family="Sylviidae" guid="NHMSYS0000530526" rank="SPECIES" commonName="Bearded Tit">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1331,15 +1332,15 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Tetrao tetrix" family="Phasianidae" guid="NHMSYS0000530658" rank="SPECIES" commonName="Black Grouse">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Tetrao urogallus" family="Phasianidae" guid="NHMSYS0000530659" rank="SPECIES" commonName="Capercaillie">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1350,7 +1351,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Turdus pilaris" family="Muscicapidae" guid="NHMSYS0000530679" rank="SPECIES" commonName="Fieldfare">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1367,9 +1368,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Falco columbarius" family="Falconidae" guid="NHMSYS0000530743" rank="SPECIES" commonName="Merlin">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1380,7 +1381,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Plectrophenax nivalis" family="Emberizidae" guid="NHMSYS0000530776" rank="SPECIES" commonName="Snow Bunting">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1394,9 +1395,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Pyrrhocorax pyrrhocorax" family="Corvidae" guid="NHMSYS0000530800" rank="SPECIES" commonName="Chough">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
@@ -1438,9 +1439,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Sternula albifrons" family="Laridae" guid="NHMSYS0001688285" rank="SPECIES" commonName="Little tern">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="2km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
@@ -1463,7 +1464,7 @@
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>                                                                                                                                 
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
@@ -1543,9 +1544,9 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Ostrea edulis" family="Ostreidae" guid="NHMSYS0020975316" rank="SPECIES" commonName="Native oyster">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="400km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
@@ -1559,37 +1560,38 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Linaria flavirostris" family="Fringillidae" guid="NHMSYS0021004297" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Linaria flavirostris" family="Fringillidae" guid="NHMSYS0021004297" rank="SPECIES" commonName="Twite">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Erythrina erythrina" family="Fringillidae" guid="NHMSYS0021004347" rank="SPECIES" commonName="Common Rosefinch">
+<sensitiveSpecies name="Carpodacus erythrinus" family="Fringillidae" guid="NHMSYS0021004347" rank="SPECIES" commonName="Common Rosefinch">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                       
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Zygaena loti scotica" family="Zygaenidae" guid="NHMSYS0021143429" rank="INFRASPECIFICNAME" commonName="Slender Scotch Burnet Moth">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Zygaena viciae argyllensis" family="Zygaenidae" guid="NHMSYS0021143436" rank="INFRASPECIFICNAME" commonName="New Forest Burnet Moth">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Zygaena lonicerae jocelynae" family="Zygaenidae" guid="NHMSYS0021143443" rank="INFRASPECIFICNAME" commonName="Talisker burnet Moth">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="2km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Acosmetia caliginosa" family="Noctuidae" guid="NHMSYS0021144548" rank="SPECIES" commonName="reddish buff moth">
+<sensitiveSpecies name="Acosmetia caliginosa" family="Noctuidae" guid="NHMSYS0021144548" rank="SPECIES" commonName="Reddish Buff Moth">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
