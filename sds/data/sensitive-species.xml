@@ -28,6 +28,33 @@
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
+  <sensitiveSpecies name="Aythya marila" family="Anatidae" guid="NBNSYS0000000193" rank="SPECIES" commonName="Greater Scaup">
+    <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="50km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="50km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="50km" zone="Wales"/>
+       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="50km" zone="Isle of Man"/>
+      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="50km" zone="Northern Ireland"/>
+    </instances>
+  </sensitiveSpecies>
+  <sensitiveSpecies name="Jynx Torquilla" family="Picidae" guid="NHMSYS0000530418" rank="SPECIES" commonName="Wryneck">
+    <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
+      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+    </instances>
+  </sensitiveSpecies>
+  <sensitiveSpecies name="Loxia pytypsittacus" family="Anatidae" guid="NHMSYS0000530456" rank="SPECIES" commonName="Parrot Crossbill">
+    <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
+      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+    </instances>
+  </sensitiveSpecies>
   <sensitiveSpecies name="Numenius phaeopus" family="Scolopacidae" guid="NBNSYS0000000144" rank="SPECIES" commonName="Whimbrel">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
@@ -40,6 +67,11 @@
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+    </instances>
+  </sensitiveSpecies>
+  <sensitiveSpecies name="Stercorarius parasiticus" family="Stercorariidae" guid="NBNSYS0000000341" rank="SPECIES" commonName="Arctic Skua">
+    <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Tringa ochropus" family="Scolopacidae" guid="NBNSYS0000000147" rank="SPECIES" commonName="Green Sandpiper">
@@ -1345,12 +1377,15 @@
   <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="100km" zone="Wales"/>                                                                                                                          
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="100km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
-  
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Turdus iliacus" family="Muscicapidae" guid="NHMSYS0000530673" rank="SPECIES" commonName="Redwing">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                          
+  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
+  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>                                                                                                                                   
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Turdus pilaris" family="Muscicapidae" guid="NHMSYS0000530679" rank="SPECIES" commonName="Fieldfare">
