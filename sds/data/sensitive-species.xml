@@ -601,6 +601,12 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
+  <sensitiveSpecies name="Dolomedes Plantarius" family="Pisauridae" guid="NBNSYS0000008832" rank="SPECIES" commonName="Fen Raft Spider">
+    <instances>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+    </instances>  
+  </sensitiveSpecies>
   <sensitiveSpecies name="Eresus sandaliatus" family="Eresidae" guid="NBNSYS0000189355" rank="SPECIES" commonName="">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
