@@ -1461,6 +1461,11 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
 </instances>
 </sensitiveSpecies>
+<sensitiveSpecies name="Gryllotalpa Gryllotalpa" family="Gryllotalpidae" guid="NBNSYS0000006830" rank="SPECIES" commonName="Mole Cricket">
+<instances>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+</instances>                                                                                                                          
+</sensitiveSpecies>
 <sensitiveSpecies name="Gryllus campestris" family="Gryllidae" guid="NHMSYS0001387363" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="2km" zone="England"/>
