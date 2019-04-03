@@ -37,6 +37,21 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="50km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
+  <sensitiveSpecies name="Siona lineata" family="Lycaenidae" guid="NBNSYS0000006058" rank="SPECIES" commonName="Black-Veined Moth">
+    <instances>
+     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+     </instances>
+  </sensitiveSpecies>
+  <sensitiveSpecies name="Thalera Fimbrialis" family="Geometridae" guid="NBNSYS0000005745" rank="SPECIES" commonName="Sussex Emerald Moth">
+    <instances>
+     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+     </instances>
+  </sensitiveSpecies>
+  <sensitiveSpecies name="Maculinea Arion" family="Ennomines" guid="NHMSYS0000516485" rank="SPECIES" commonName="Large Blue Butterfly">
+    <instances>
+     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+     </instances>
+  </sensitiveSpecies>
   <sensitiveSpecies name="Jynx Torquilla" family="Picidae" guid="NHMSYS0000530418" rank="SPECIES" commonName="Wryneck">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
