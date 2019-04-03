@@ -1,7 +1,8 @@
 <sensitiveSpeciesList>
-  <sensitiveSpecies name="Hericium cirrhatum" family="Hericiaceae" guid="BMSSYS0000008012" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Hericium cirrhatum" family="Hericiaceae" guid="BMSSYS0000008012" rank="SPECIES" commonName="Tiered Tooth">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Heterodermia propagulifera" family="Physciaceae" guid="BMSSYS0000046243" rank="SPECIES" commonName="Coralloid Rosette-Lichen">
@@ -510,6 +511,7 @@
   <sensitiveSpecies name="Hericium coralloides" family="Hericiaceae" guid="NBNSYS0000020829" rank="SPECIES" commonName="Coral Tooth Fungus">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Gentianella ciliata" family="Gentianaceae" guid="NBNSYS0000039919" rank="SPECIES" commonName="Fringed Gentian">
@@ -523,9 +525,10 @@
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Geastrum elegans" family="Geastraceae" guid="NBNSYS0000041914" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Geastrum elegans" family="Geastraceae" guid="NBNSYS0000041914" rank="SPECIES" commonName="Elegant Earthstar">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Myriostoma coliforme" family="Geastraceae" guid="NBNSYS0000041930" rank="SPECIES" commonName="">
@@ -1487,9 +1490,10 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Hericium erinaceus" family="Hericiaceae" guid="NHMSYS0001484046" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Hericium erinaceus" family="Hericiaceae" guid="NHMSYS0001484046" rank="SPECIES" commonName="Bearded Tooth">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                        
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Pseudocyphellaria aurata" family="Lobariaceae" guid="NHMSYS0001495191" rank="SPECIES" commonName="Green specklebelly">
