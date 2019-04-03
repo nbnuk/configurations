@@ -325,6 +325,24 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
+  <sensitiveSpecies name="Cephalanthera longifolia" family="Orchidaceae" guid="NBNSYS0000002286" rank="SPECIES" commonName="Sword-Leaved Helleborine">
+    <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+    </instances>
+  </sensitiveSpecies>
+  <sensitiveSpecies name="Serapias Lingua" family="Orchidaceae" guid="NBNSYS0200003138" rank="SPECIES" commonName="Greater-Tongue Orchid">
+    <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+    </instances>
+  </sensitiveSpecies>
+  <sensitiveSpecies name="Serapias Lingua" family="Orchidaceae" guid="NBNSYS0200003138" rank="SPECIES" commonName="Greater-Tongue Orchid">
+    <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+    </instances>
+  </sensitiveSpecies>
   <sensitiveSpecies name="Crepis foetida" family="Asteraceae" guid="NBNSYS0000004571" rank="SPECIES" commonName="Stinking Hawk's Beard">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
