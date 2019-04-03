@@ -1509,10 +1509,16 @@
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="50km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Limoniscus violaceus" family="Elateridae" guid="NHMSYS0001718842" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Limoniscus violaceus" family="Elateridae" guid="NHMSYS0001718842" rank="SPECIES" commonName="Violet Click Beetle">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="2km" zone="England"/>
 </instances>
+</sensitiveSpecies>
+<sensitiveSpecies name="Lucanus Cervus" family="Lucanidae" guid="NBNSYS0000011448" rank="SPECIES" commonName="Stag Beetle">
+<instances>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
+  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/                                                                                                                       
+</instances>                                                                                                                          
 </sensitiveSpecies>
 <sensitiveSpecies name="Pipistrellus pipistrellus" family="Vespertilionidae" guid="NHMSYS0020001355" rank="SPECIES" commonName="Common Pipistrelle">
 <instances>
