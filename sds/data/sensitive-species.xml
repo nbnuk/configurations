@@ -10,7 +10,7 @@
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Calidris alpina" family="Scolopacidae" guid="NBNSYS0000000035" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Calidris alpina" family="Scolopacidae" guid="NBNSYS0000000035" rank="SPECIES" commonName="Dunlin">
     <instances>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
@@ -23,7 +23,7 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Aythya ferina" family="Anatidae" guid="NBNSYS0000000137" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Aythya ferina" family="Anatidae" guid="NBNSYS0000000137" rank="SPECIES" commonName="Common Pochard">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -107,7 +107,7 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Recurvirostra avosetta" family="Recurvirostridae" guid="NBNSYS0000000154" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Recurvirostra avosetta" family="Recurvirostridae" guid="NBNSYS0000000154" rank="SPECIES" commonName="Pied Avocet">                                                                                                                       
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -146,12 +146,12 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Himantopus himantopus" family="Recurvirostridae" guid="NBNSYS0000000180" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Himantopus himantopus" family="Recurvirostridae" guid="NBNSYS0000000180" rank="SPECIES" commonName="Black-Winged Stilt">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Anas penelope" family="Anatidae" guid="NBNSYS0000000188" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Anas penelope" family="Anatidae" guid="NBNSYS0000000188" rank="SPECIES" commonName="Wigeon">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -418,7 +418,7 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Megaptera novaeangliae" family="Balaenopteridae" guid="NBNSYS0000005159" rank="SPECIES" commonName="Humpedback whale">
+  <sensitiveSpecies name="Megaptera novaeangliae" family="Balaenopteridae" guid="NBNSYS0000005159" rank="SPECIES" commonName="Humpback whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -453,14 +453,14 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Ziphius cavirostris" family="Ziphiidae" guid="NBNSYS0000005167" rank="SPECIES" commonName="Cuvier beaked whale">
+  <sensitiveSpecies name="Ziphius cavirostris" family="Ziphiidae" guid="NBNSYS0000005167" rank="SPECIES" commonName="Cuvier's beaked whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Mesoplodon bidens" family="Ziphiidae" guid="NBNSYS0000005168" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Mesoplodon bidens" family="Ziphiidae" guid="NBNSYS0000005168" rank="SPECIES" commonName="Sowerby's Beaked Whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -474,21 +474,21 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Phocoena phocoena" family="Phocoenidae" guid="NBNSYS0000005172" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Phocoena phocoena" family="Phocoenidae" guid="NBNSYS0000005172" rank="SPECIES" commonName="Harbour Porpoise">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Orcinus orca" family="Delphinidae" guid="NBNSYS0000005173" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Orcinus orca" family="Delphinidae" guid="NBNSYS0000005173" rank="SPECIES" commonName="Killer Whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Pseudorca crassidens" family="Delphinidae" guid="NBNSYS0000005174" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Pseudorca crassidens" family="Delphinidae" guid="NBNSYS0000005174" rank="SPECIES" commonName="False Killer Whale">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -509,7 +509,7 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Decticus verrucivorus" family="Tettigoniidae" guid="NBNSYS0000006818" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Decticus verrucivorus" family="Tettigoniidae" guid="NBNSYS0000006818" rank="SPECIES" commonName="Wart Biter">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="2km" zone="England"/>
     </instances>
@@ -537,7 +537,7 @@
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Hippocampus hippocampus" family="Syngnathidae" guid="NBNSYS0000040792" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Hippocampus hippocampus" family="Syngnathidae" guid="NBNSYS0000040792" rank="SPECIES" commonName="Short-Snouted Seahorse">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -549,17 +549,17 @@
       <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Myriostoma coliforme" family="Geastraceae" guid="NBNSYS0000041930" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Myriostoma coliforme" family="Geastraceae" guid="NBNSYS0000041930" rank="SPECIES" commonName="Pepper Pot">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Didymodon glaucus" family="Pottiaceae" guid="NBNSYS0000146090" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Didymodon glaucus" family="Pottiaceae" guid="NBNSYS0000146090" rank="SPECIES" commonName="Glaucus Bearded Moss">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Geastrum berkeleyi" family="Geastraceae" guid="NBNSYS0000162262" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Geastrum berkeleyi" family="Geastraceae" guid="NBNSYS0000162262" rank="SPECIES" commonName="Berkeley's Earthstar">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
@@ -571,30 +571,30 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Aequipecten opercularis" family="Pectinidae" guid="NBNSYS0000173626" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Aequipecten opercularis" family="Pectinidae" guid="NBNSYS0000173626" rank="SPECIES" commonName="Queen Scallop">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Pecten maximus" family="Pectinidae" guid="NBNSYS0000177043" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Pecten maximus" family="Pectinidae" guid="NBNSYS0000177043" rank="SPECIES" commonName="King Scallop">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Palinurus elephas" family="Palinuridae" guid="NBNSYS0000188515" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Palinurus elephas" family="Palinuridae" guid="NBNSYS0000188515" rank="SPECIES" commonName="Crawfish">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Odobenus rosmarus" family="Odobenidae" guid="NBNSYS0000188733" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Odobenus rosmarus" family="Odobenidae" guid="NBNSYS0000188733" rank="SPECIES" commonName="Walrus">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Stenella coeruleoalba" family="Delphinidae" guid="NBNSYS0000188741" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Stenella coeruleoalba" family="Delphinidae" guid="NBNSYS0000188741" rank="SPECIES" commonName="Striped Dolphin">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -608,7 +608,7 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Monodon monoceros" family="Monodontidae" guid="NBNSYS0000188753" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Monodon monoceros" family="Monodontidae" guid="NBNSYS0000188753" rank="SPECIES" commonName="Narwhal">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -628,7 +628,7 @@
       <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>  
   </sensitiveSpecies>
-  <sensitiveSpecies name="Eresus sandaliatus" family="Eresidae" guid="NBNSYS0000189355" rank="SPECIES" commonName="">
+  <sensitiveSpecies name="Eresus sandaliatus" family="Eresidae" guid="NBNSYS0000189355" rank="SPECIES" commonName="Ladybird Spider">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
@@ -772,26 +772,26 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Peponocephala electra" family="Delphinidae" guid="NHMSYS0000080197" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Peponocephala electra" family="Delphinidae" guid="NHMSYS0000080197" rank="SPECIES" commonName="Melon Headed Whale">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Kogia breviceps" family="Physeteridae" guid="NHMSYS0000080198" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Kogia breviceps" family="Physeteridae" guid="NHMSYS0000080198" rank="SPECIES" commonName="Pygmy Sperm Whale">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Muscardinus avellanarius" family="Myoxidae" guid="NHMSYS0000080214" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Muscardinus avellanarius" family="Myoxidae" guid="NHMSYS0000080214" rank="SPECIES" commonName="Hazel Dormouse">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Cyclodictyon laetevirens" family="Pilotrichaceae" guid="NHMSYS0000309724" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Cyclodictyon laetevirens" family="Pilotrichaceae" guid="NHMSYS0000309724" rank="SPECIES" commonName="Bright Green Cave Moss">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
@@ -802,12 +802,12 @@
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Scorpidium turgescens" family="Calliergonaceae" guid="NHMSYS0000310616" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Scorpidium turgescens" family="Calliergonaceae" guid="NHMSYS0000310616" rank="SPECIES" commonName="Turgid Scorpion Moss">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Thamnobryum angustifolium" family="Neckeraceae" guid="NHMSYS0000310749" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Thamnobryum angustifolium" family="Neckeraceae" guid="NHMSYS0000310749" rank="SPECIES" commonName="Derbyshire Feather Moss">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
@@ -818,51 +818,51 @@
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Berardius bairdii" family="" guid="NHMSYS0000376437" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Berardius bairdii" family="" guid="NHMSYS0000376437" rank="SPECIES" commonName="Baird's Beaked Whales">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Cephalorhynchus commersonii" family="" guid="NHMSYS0000376511" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Cephalorhynchus commersonii" family="" guid="NHMSYS0000376511" rank="SPECIES" commonName="Commerson's Dolphin">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Cephalorhynchus heavisidii" family="" guid="NHMSYS0000376516" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Cephalorhynchus heavisidii" family="" guid="NHMSYS0000376516" rank="SPECIES" commonName="Heaviside's Dolphin">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Dugong dugon" family="Dugongidae" guid="NHMSYS0000376604" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Dugong dugon" family="Dugongidae" guid="NHMSYS0000376604" rank="SPECIES" commonName="Dugong">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Eptesicus bottae" family="Vespertilionidae" guid="NHMSYS0000376626" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Eptesicus bottae" family="Vespertilionidae" guid="NHMSYS0000376626" rank="SPECIES" commonName="Botta's Serotine">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Eubalaena australis" family="Balaenidae" guid="NHMSYS0000376651" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Eubalaena australis" family="Balaenidae" guid="NHMSYS0000376651" rank="SPECIES" commonName="Southern Right Whale">
 <instances>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Eubalaena glacialis" family="Balaenidae" guid="NHMSYS0000376656" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Eubalaena glacialis" family="Balaenidae" guid="NHMSYS0000376656" rank="SPECIES" commonName="North Pacific Right Whale">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Globicephala macrorhynchus" family="Delphinidae" guid="NHMSYS0000376716" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Globicephala macrorhynchus" family="Delphinidae" guid="NHMSYS0000376716" rank="SPECIES" commonName="Short-Finned Pilot Whale">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Inia geoffrensis" family="" guid="NHMSYS0000376790" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Inia geoffrensis" family="" guid="NHMSYS0000376790" rank="SPECIES" commonName="Amazon River Dolphin">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
@@ -874,22 +874,22 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Lagenorhynchus australis" family="Delphinidae" guid="NHMSYS0000376815" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Lagenorhynchus australis" family="Delphinidae" guid="NHMSYS0000376815" rank="SPECIES" commonName="Peale's Dolphin">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Lagenorhynchus obscurus" family="Delphinidae" guid="NHMSYS0000376820" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Lagenorhynchus obscurus" family="Delphinidae" guid="NHMSYS0000376820" rank="SPECIES" commonName="Dusky Dolphin">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Lontra felina" family="" guid="NHMSYS0000376841" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Lontra felina" family="" guid="NHMSYS0000376841" rank="SPECIES" commonName="Marine Otter">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Balaena mysticetus" family="Balaenidae" guid="NHMSYS0000376882" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Balaena mysticetus" family="Balaenidae" guid="NHMSYS0000376882" rank="SPECIES" commonName="Bowhead Whale">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -903,50 +903,50 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Mesoplodon grayi" family="Ziphiidae" guid="NHMSYS0000376917" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Mesoplodon grayi" family="Ziphiidae" guid="NHMSYS0000376917" rank="SPECIES" commonName="Gray's Beaked Whale">
 <instances>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Myotis blythii" family="Vespertilionidae" guid="NHMSYS0000376980" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Myotis blythii" family="Vespertilionidae" guid="NHMSYS0000376980" rank="SPECIES" commonName="Lesser Mouse-Eared Bat">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Myotis capaccinii" family="Vespertilionidae" guid="NHMSYS0000376984" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Myotis capaccinii" family="Vespertilionidae" guid="NHMSYS0000376984" rank="SPECIES" commonName="Long-Fingered Bat">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Neophocaena phocaenoides" family="" guid="NHMSYS0000377002" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Neophocaena phocaenoides" family="" guid="NHMSYS0000377002" rank="SPECIES" commonName="Yangtze Finless Porpoise">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Nyctalus azoreum" family="Vespertilionidae" guid="NHMSYS0000377007" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Nyctalus azoreum" family="Vespertilionidae" guid="NHMSYS0000377007" rank="SPECIES" commonName="Azorean Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Nyctalus lasiopterus" family="Vespertilionidae" guid="NHMSYS0000377011" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Nyctalus lasiopterus" family="Vespertilionidae" guid="NHMSYS0000377011" rank="SPECIES" commonName="Giant Noctule">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Phocoena dioptrica" family="Phocoenidae" guid="NHMSYS0000377088" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Phocoena dioptrica" family="Phocoenidae" guid="NHMSYS0000377088" rank="SPECIES" commonName="Spectacled Porpoise">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Phocoena spinipinnis" family="Phocoenidae" guid="NHMSYS0000377093" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Phocoena spinipinnis" family="Phocoenidae" guid="NHMSYS0000377093" rank="SPECIES" commonName="Burmeister's Porpoise">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Phocoenoides dalli" family="Phocoenidae" guid="NHMSYS0000377103" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Phocoenoides dalli" family="Phocoenidae" guid="NHMSYS0000377103" rank="SPECIES" commonName="Dall's Porpoise">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
@@ -966,12 +966,12 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Platanista gangetica" family="" guid="NHMSYS0000377129" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Platanista gangetica" family="" guid="NHMSYS0000377129" rank="SPECIES" commonName="Ganges River Dolphin">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Plecotus teneriffae" family="Vespertilionidae" guid="NHMSYS0000377134" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Plecotus teneriffae" family="Vespertilionidae" guid="NHMSYS0000377134" rank="SPECIES" commonName="Canary Big-Eared Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
