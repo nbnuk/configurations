@@ -850,7 +850,7 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Eubalaena glacialis" family="Balaenidae" guid="NHMSYS0000376656" rank="SPECIES" commonName="North Pacific Right Whale">
+<sensitiveSpecies name="Eubalaena glacialis" family="Balaenidae" guid="NHMSYS0000376656" rank="SPECIES" commonName="North Atlantic Right Whale">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -1607,7 +1607,7 @@
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Kogia sima" family="Physeteridae" guid="NHMSYS0020774290" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Kogia sima" family="Physeteridae" guid="NHMSYS0020774290" rank="SPECIES" commonName="Dwarf Sperm Whale">
 <instances>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
@@ -1624,7 +1624,7 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Orcaella brevirostris" family="" guid="NHMSYS0020774298" rank="SPECIES" commonName="">
+<sensitiveSpecies name="Orcaella brevirostris" family="" guid="NHMSYS0020774298" rank="SPECIES" commonName="Irawaddy Dolphin">
 <instances>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
