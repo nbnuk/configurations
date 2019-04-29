@@ -1,6 +1,6 @@
 {
   "defaultSourceField": "status",
-  "deleteFirst": "listMembership_m_s,riskAssessment_m_s,riskAssessmentImpact_m_s,managementPlans_m_s",
+  "deleteFirst": "listMembership_m_s,riskAssessment_m_s,riskAssessmentImpact_m_s,managementPlans_m_s,listUktag_m_s",
   "lists": [
     {
       "uid": "dr1818",
@@ -8,7 +8,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "GB NNSS ALERT SPECIES",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1825",
@@ -16,7 +16,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "WCA 1981 SCHEDULE 9",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1831",
@@ -24,7 +24,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "INNS - WALES PRIORITY SPECIES FOR ACTION",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1568",
@@ -32,7 +32,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "EU INVASIVE ALIEN SPECIES REGULATION",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1697",
@@ -40,7 +40,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "NRW SUSTAINABLE MANAGEMENT OF NATURAL RESOURCES (SMNR)",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1830",
@@ -48,7 +48,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "CONTINGENCY PLAN SPECIES FOR WALES",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1832",
@@ -56,7 +56,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "WG INNS COMPLETE LIST",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1854",
@@ -64,7 +64,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "MSFD - UK PRIORITY SPECIES",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1863",
@@ -72,7 +72,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "WFD UKTAG AQUATIC ALIEN SPECIES IMPACT",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1865",
@@ -80,7 +80,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "WFD UKTAG ALARM SPECIES",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1863",
@@ -88,7 +88,7 @@
       "field": "riskAssessmentImpact_m_s",
       "action": "add",
       "term": "INNS risk assessment: WFD UKTAG AQUATIC ALIEN SPECIES IMPACT",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1864",
@@ -96,7 +96,7 @@
       "field": "listMembership_m_s",
       "action": "add",
       "term": "WALES MARINE MONITORING AND SURVEILLANCE",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1864",
@@ -104,7 +104,7 @@
       "field": "riskAssessment_m_s",
       "action": "add",
       "term": "INNS risk assessment: WALES MARINE MONITORING AND SURVEILLANCE",
-      "label": "INNS"
+      "label": ""
     },
     {
       "uid": "dr1831",
@@ -112,7 +112,72 @@
       "field": "managementPlans_m_s",
       "action": "add",
       "term": "INNS management plans: INNS - WALES PRIORITY SPECIES FOR ACTION",
-      "label": "INNS"
+      "label": ""
+    },
+    { "uid": "dr1958",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "NORTHERN IRELAND PRIORITY SPECIES",
+      "label": ""
+    },
+    { "uid": "dr1957",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "NORTHERN IRELAND HABITAS SPECIES",
+      "label": ""
+    },
+    { "uid": "dr1966",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "NON-NATIVE SPECIES OF INTEREST TO NORTHERN IRELAND",
+      "label": ""
+    },
+    { "uid": "dr1989",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "UKTAG 2015 AQUATIC ALIEN SPECIES FOR IRELAND",
+      "label": ""
+    },
+    { "uid": "dr1990",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "UKTAG 2015 ALIEN SPECIES ALARM LIST",
+      "label": ""
+    },
+    { "uid": "dr1982",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "INNS OF INTEREST TO NI",
+      "label": ""
+    },
+    {
+      "uid": "dr1981",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "INVASIVE SPECIES IRELAND",
+      "label": ""
+    },
+    {
+      "uid": "dr1951",
+      "sourceField": "*",
+      "field": "listMembership_m_s",
+      "action": "add",
+      "term": "NORTHERN IRELAND SENSITIVE SPECIES LIST",
+      "label": ""
+    },
+    { "uid": "dr1990",
+      "sourceField": "region",
+      "field": "listUktag_m_s",
+      "action": "add",
+      "term": "UKTAG 2015 ALIEN SPECIES ALARM LIST",
+      "label": ""
     }
   ]
 }
