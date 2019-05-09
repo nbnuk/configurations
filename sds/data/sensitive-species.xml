@@ -88,11 +88,15 @@
   <sensitiveSpecies name="Stercorarius parasiticus" family="Stercorariidae" guid="NBNSYS0000000341" rank="SPECIES" commonName="Arctic Skua">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Tringa ochropus" family="Scolopacidae" guid="NBNSYS0000000147" rank="SPECIES" commonName="Green Sandpiper">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="100km" zone="England"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="100km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Tringa glareola" family="Scolopacidae" guid="NBNSYS0000000148" rank="SPECIES" commonName="Wood Sandpiper">
