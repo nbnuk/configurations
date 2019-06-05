@@ -817,12 +817,6 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Eptesicus bottae" family="Vespertilionidae" guid="NHMSYS0000376626" rank="SPECIES" commonName="Botta's Serotine">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Eubalaena australis" family="Balaenidae" guid="NHMSYS0000376651" rank="SPECIES" commonName="Southern Right Whale">
 <instances>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -883,29 +877,6 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Myotis blythii" family="Vespertilionidae" guid="NHMSYS0000376980" rank="SPECIES" commonName="Lesser Mouse-Eared Bat">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Myotis capaccinii" family="Vespertilionidae" guid="NHMSYS0000376984" rank="SPECIES" commonName="Long-Fingered Bat">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-</sensitiveSpecies>
-<sensitiveSpecies name="Nyctalus azoreum" family="Vespertilionidae" guid="NHMSYS0000377007" rank="SPECIES" commonName="Azorean Bat">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Nyctalus lasiopterus" family="Vespertilionidae" guid="NHMSYS0000377011" rank="SPECIES" commonName="Giant Noctule">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Phocoena dioptrica" family="Phocoenidae" guid="NHMSYS0000377088" rank="SPECIES" commonName="Spectacled Porpoise">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
@@ -924,34 +895,7 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
 </instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Pipistrellus maderensis" family="Vespertilionidae" guid="NHMSYS0000377116" rank="SPECIES" commonName="Madeira Pipistrelle">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Plecotus teneriffae" family="Vespertilionidae" guid="NHMSYS0000377134" rank="SPECIES" commonName="Canary Big-Eared Bat">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Rhinolophus blasii" family="Rhinolophidae" guid="NHMSYS0000377173" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>                                                                                                                               
-<sensitiveSpecies name="Rhinolophus euryale" family="Rhinolophidae" guid="NHMSYS0000377177" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Rhinolophus mehelyi" family="Rhinolophidae" guid="NHMSYS0000377181" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
+</sensitiveSpecies>                                                                                                             
 <sensitiveSpecies name="Stenella attenuata" family="Delphinidae" guid="NHMSYS0000377251" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
@@ -971,16 +915,6 @@
 <sensitiveSpecies name="Stenella longirostris" family="Delphinidae" guid="NHMSYS0000377266" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Tadarida brasiliensis" family="Vespertilionidae" guid="NHMSYS0000377301" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Tadarida teniotis" family="Vespertilionidae" guid="NHMSYS0000377305" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Cephalanthera rubra" family="Orchidaceae" guid="NHMSYS0000457046" rank="SPECIES" commonName="">
@@ -1070,12 +1004,6 @@
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="4km" zone="Scotland"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="2km" zone="Northern Ireland"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Eptesicus fuscus" family="Vespertilionidae" guid="NHMSYS0000528006" rank="SPECIES" commonName="Big Brown Bat">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Eptesicus nilssonii" family="Vespertilionidae" guid="NHMSYS0000528007" rank="SPECIES" commonName="Northern Bat">
@@ -1538,18 +1466,6 @@
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Lasiurus cinereus" family="Vespertilionidae" guid="NHMSYS0020774291" rank="SPECIES" commonName="Hoary Bat">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Miniopterus schreibersii" family="Vespertilionidae" guid="NHMSYS0020774294" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 </sensitiveSpecies>
 <sensitiveSpecies name="Steno bredanensis" family="Delphinidae" guid="NHMSYS0020774304" rank="SPECIES" commonName="">
 <instances>
