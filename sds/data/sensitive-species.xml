@@ -575,18 +575,6 @@
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Aequipecten opercularis" family="Pectinidae" guid="NBNSYS0000173626" rank="SPECIES" commonName="Queen Scallop">
-    <instances>
-      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
-    </instances>
-  </sensitiveSpecies>
-  <sensitiveSpecies name="Pecten maximus" family="Pectinidae" guid="NBNSYS0000177043" rank="SPECIES" commonName="King Scallop">
-    <instances>
-      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
-    </instances>
-  </sensitiveSpecies>
   <sensitiveSpecies name="Palinurus elephas" family="Palinuridae" guid="NBNSYS0000188515" rank="SPECIES" commonName="Crawfish">
     <instances>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
@@ -1644,14 +1632,6 @@
 <sensitiveSpecies name="Cephalorhynchus eutropia" family="" guid="NHMSYS0020784383" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Ostrea edulis" family="Ostreidae" guid="NHMSYS0020975316" rank="SPECIES" commonName="Native oyster">
-<instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="400km" zone="Scotland"/>
-  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
-  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Poecile montana" family="Paridae" guid="NHMSYS0021002757" rank="SPECIES" commonName="">
