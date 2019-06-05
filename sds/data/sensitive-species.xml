@@ -817,21 +817,6 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Cephalorhynchus commersonii" family="" guid="NHMSYS0000376511" rank="SPECIES" commonName="Commerson's Dolphin">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Cephalorhynchus heavisidii" family="" guid="NHMSYS0000376516" rank="SPECIES" commonName="Heaviside's Dolphin">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Dugong dugon" family="Dugongidae" guid="NHMSYS0000376604" rank="SPECIES" commonName="Dugong">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Eptesicus bottae" family="Vespertilionidae" guid="NHMSYS0000376626" rank="SPECIES" commonName="Botta's Serotine">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
@@ -852,11 +837,6 @@
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Globicephala macrorhynchus" family="Delphinidae" guid="NHMSYS0000376716" rank="SPECIES" commonName="Short-Finned Pilot Whale">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Inia geoffrensis" family="" guid="NHMSYS0000376790" rank="SPECIES" commonName="Amazon River Dolphin">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
@@ -913,10 +893,6 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Neophocaena phocaenoides" family="" guid="NHMSYS0000377002" rank="SPECIES" commonName="Yangtze Finless Porpoise">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Nyctalus azoreum" family="Vespertilionidae" guid="NHMSYS0000377007" rank="SPECIES" commonName="Azorean Bat">
 <instances>
@@ -940,11 +916,6 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Phocoenoides dalli" family="Phocoenidae" guid="NHMSYS0000377103" rank="SPECIES" commonName="Dall's Porpoise">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Pipistrellus kuhlii" family="Vespertilionidae" guid="NHMSYS0000377112" rank="SPECIES" commonName="Kuhl's Pipistrelle">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>                                                                                                                            
@@ -960,20 +931,10 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Platanista gangetica" family="" guid="NHMSYS0000377129" rank="SPECIES" commonName="Ganges River Dolphin">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Plecotus teneriffae" family="Vespertilionidae" guid="NHMSYS0000377134" rank="SPECIES" commonName="Canary Big-Eared Bat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Pontoporia blainvillei" family="" guid="NHMSYS0000377164" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Rhinolophus blasii" family="Rhinolophidae" guid="NHMSYS0000377173" rank="SPECIES" commonName="">
@@ -989,21 +950,6 @@
 <sensitiveSpecies name="Rhinolophus mehelyi" family="Rhinolophidae" guid="NHMSYS0000377181" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Sotalia fluviatilis" family="" guid="NHMSYS0000377223" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Sousa chinensis" family="" guid="NHMSYS0000377233" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Sousa teuszii" family="" guid="NHMSYS0000377238" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Stenella attenuata" family="Delphinidae" guid="NHMSYS0000377251" rank="SPECIES" commonName="">
@@ -1578,12 +1524,6 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Feresa attenuata" family="Delphinidae" guid="NHMSYS0020774286" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Hypsugo savii" family="Vespertilionidae" guid="NHMSYS0020774288" rank="SPECIES" commonName="Savi's Pipistrelle">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>                                                                                                                       
@@ -1610,18 +1550,8 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Orcaella brevirostris" family="" guid="NHMSYS0020774298" rank="SPECIES" commonName="Irawaddy Dolphin">
-<instances>
-  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Steno bredanensis" family="Delphinidae" guid="NHMSYS0020774304" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Cephalorhynchus eutropia" family="" guid="NHMSYS0020784383" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
