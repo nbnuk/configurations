@@ -5,11 +5,6 @@
       <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
-  <sensitiveSpecies name="Heterodermia propagulifera" family="Physciaceae" guid="BMSSYS0000046243" rank="SPECIES" commonName="Coralloid Rosette-Lichen">
-    <instances>
-      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-    </instances>
-  </sensitiveSpecies>
   <sensitiveSpecies name="Calidris alpina" family="Scolopacidae" guid="NBNSYS0000000035" rank="SPECIES" commonName="Dunlin">
     <instances>
       <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
@@ -1500,20 +1495,10 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Catapyrenium psoromoides" family="Verrucariaceae" guid="NHMSYS0001476897" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Hericium erinaceus" family="Hericiaceae" guid="NHMSYS0001484046" rank="SPECIES" commonName="Bearded Tooth">
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                        
-</instances>
-</sensitiveSpecies>
-<sensitiveSpecies name="Pseudocyphellaria aurata" family="Lobariaceae" guid="NHMSYS0001495191" rank="SPECIES" commonName="Green specklebelly">
-<instances>
-  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Larus michahellis" family="Laridae" guid="NHMSYS0001688279" rank="SPECIES" commonName="">
