@@ -412,9 +412,16 @@
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="1km" zone="England"/>
-      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="1km" zone="Isle of Man"/>
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="1km" zone="Northern Ireland"/>
+    </instances>
+     </sensitiveSpecies>
+  <sensitiveSpecies name="Steno bredanensis" family="Delphinidae" guid="NHMSYS0020774280" rank="SPECIES" commonName="Rough-toothed dolphin">
+    <instances>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
+      <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Megaptera novaeangliae" family="Balaenopteridae" guid="NBNSYS0000005159" rank="SPECIES" commonName="Humpback whale">
