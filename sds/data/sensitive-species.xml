@@ -1559,7 +1559,7 @@
 <sensitiveSpecies name="Zygaena viciae argyllensis" family="Zygaenidae" guid="NHMSYS0021143436" rank="INFRASPECIFICNAME" commonName="New Forest Burnet Moth">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
-  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Zygaena lonicerae jocelynae" family="Zygaenidae" guid="NHMSYS0021143443" rank="INFRASPECIFICNAME" commonName="Talisker burnet Moth">
