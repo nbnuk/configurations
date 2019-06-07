@@ -5,7 +5,7 @@
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Calidris alpina" family="Scolopacidae" guid="NBNSYS0000000035" rank="SPECIES" commonName="Dunlin">
@@ -40,7 +40,7 @@
   <sensitiveSpecies name="Heterodermia propagulifera" family="Physciaceae" guid="BMSSYS0000046243" rank="SPECIES" commonName="Coralloid rosette-lichen">
     <instances>
      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-     </instances>
+    </instances>
   </sensitiveSpecies>
   </sensitiveSpecies>
   <sensitiveSpecies name="Siona lineata" family="Lycaenidae" guid="NBNSYS0000006058" rank="SPECIES" commonName="Black-Veined Moth">
