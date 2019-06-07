@@ -1273,6 +1273,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Pernis apivorus" family="Accipitridae" guid="NHMSYS0000530550" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="50km" zone="England"/>
   <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="100km" zone="Wales"/>
 </instances>
