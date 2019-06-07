@@ -37,6 +37,12 @@
       <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="50km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
+  <sensitiveSpecies name="Heterodermia propagulifera" family="Physciaceae" guid="BMSSYS0000046243" rank="SPECIES" commonName="Coralloid rosette-lichen">
+    <instances>
+     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+     </instances>
+  </sensitiveSpecies>
+  </sensitiveSpecies>
   <sensitiveSpecies name="Siona lineata" family="Lycaenidae" guid="NBNSYS0000006058" rank="SPECIES" commonName="Black-Veined Moth">
     <instances>
      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
