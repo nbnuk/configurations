@@ -1365,7 +1365,7 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Rallus aquaticus" family="Rallidae" guid="NHMSYS0000530803" rank="SPECIES" commonName="">
