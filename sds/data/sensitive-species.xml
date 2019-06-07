@@ -1488,6 +1488,10 @@
 <instances>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
+<sensitiveSpecies name="Pseudocyphellaria aurata" family="Lobariaceae" guid="NHMSYS0001495191" rank="SPECIES" commonName="Green specklebelly">
+    <instances>
+      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+    </instances>                                                                                                                           
 </sensitiveSpecies>
 <sensitiveSpecies name="Myotis alcathoe" family="Vespertilionidae" guid="NHMSYS0020636762" rank="SPECIES" commonName="Whiskered Alcathoe Bat">
 <instances>
