@@ -823,7 +823,7 @@
 <sensitiveSpecies name="Felis silvestris" family="Felidae" guid="NHMSYS0000332741" rank="SPECIES" commonName="Wildcat">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
-  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+  <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Berardius bairdii" family="" guid="NHMSYS0000376437" rank="SPECIES" commonName="Baird's Beaked Whales">
