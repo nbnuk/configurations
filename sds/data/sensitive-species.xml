@@ -1382,6 +1382,12 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Calocybe favrei" family="Lyophyllaceae" guid="NHMSYS0001476600" rank="SPECIES" commonName="Gilded Domecap">
 <instances>
+</sensitiveSpecies>
+<sensitiveSpecies name="Catapyrenium psoromoides" family="Laridae" guid="NHMSYS0001476897" rank="SPECIES" commonName="Tree catapyrenium">
+<instances>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="100km" zone="England"/>
+</instances>
+</sensitiveSpecies>                                                                                                                                  
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
