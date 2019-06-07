@@ -187,7 +187,7 @@
   <sensitiveSpecies name="Melanitta nigra" family="Anatidae" guid="NBNSYS0000000196" rank="SPECIES" commonName="Common Scoter">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
-      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Somateria mollissima" family="Anatidae" guid="NBNSYS0000000197" rank="SPECIES" commonName="Common eider">
