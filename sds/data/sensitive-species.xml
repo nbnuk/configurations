@@ -330,7 +330,7 @@
   <sensitiveSpecies name="Saxifraga cernua" family="Saxifragaceae" guid="NBNSYS0000003500" rank="SPECIES" commonName="Drooping saxifrage">
     <instances>
       <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
-      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="10km" zone="Northern Ireland"/>
+      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Veronica montana" family="Plantaginaceae" guid="NBNSYS0000004103" rank="SPECIES" commonName="Wood Speedwell">
