@@ -290,6 +290,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Cypripedium calceolus" family="Orchidaceae" guid="NBNSYS0000002284" rank="SPECIES" commonName="Lady's Slipper Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
@@ -330,8 +331,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Saxifraga cernua" family="Saxifragaceae" guid="NBNSYS0000003500" rank="SPECIES" commonName="Drooping saxifrage">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
-      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Veronica montana" family="Plantaginaceae" guid="NBNSYS0000004103" rank="SPECIES" commonName="Wood Speedwell">
@@ -359,7 +359,9 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Crepis foetida" family="Asteraceae" guid="NBNSYS0000004571" rank="SPECIES" commonName="Stinking Hawk's Beard">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Vipera berus" family="Viperidae" guid="NBNSYS0000005075" rank="SPECIES" commonName="Adder">
@@ -934,6 +936,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Cephalanthera rubra" family="Orchidaceae" guid="NHMSYS0000457046" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
@@ -944,12 +947,16 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Dactylorhiza incarnata subsp. ochroleuca" family="Orchidaceae" guid="NHMSYS0000457916" rank="SUBSPECIES" commonName="Early Marsh Orchid">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                            
 </instances>                                                                                                                               
 </sensitiveSpecies>
 <sensitiveSpecies name="Dryopteris cristata" family="Dryopteridaceae" guid="NHMSYS0000458186" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/> 
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Gladiolus illyricus" family="Iridaceae" guid="NHMSYS0000459073" rank="SPECIES" commonName="Wild Gladiolus">
