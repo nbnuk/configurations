@@ -271,7 +271,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Trichomanes speciosum" family="Hymenophyllaceae" guid="NBNSYS0000002028" rank="SPECIES" commonName="Killarney fern">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="Natural Resorces Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
@@ -316,11 +316,13 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Orchis militaris" family="Orchidaceae" guid="NBNSYS0000002321" rank="SPECIES" commonName="Military Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Orchis simia" family="Orchidaceae" guid="NBNSYS0000002322" rank="SPECIES" commonName="Monkey Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
@@ -1008,16 +1010,20 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Orchis purpurea" family="Orchidaceae" guid="NHMSYS0000461332" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Pulsatilla vulgaris" family="Ranunculaceae" guid="NHMSYS0000462153" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                                
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Serapias parviflora" family="Orchidaceae" guid="NHMSYS0000463460" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
@@ -1028,7 +1034,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Woodsia ilvensis" family="Woodsiaceae" guid="NHMSYS0000465076" rank="SPECIES" commonName="Oblong woodsia">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
