@@ -39,8 +39,6 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Heterodermia propagulifera" family="Physciaceae" guid="BMSSYS0000046243" rank="SPECIES" commonName="Coralloid rosette-lichen">
     <instances>
-     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-    </instances>
   </sensitiveSpecies>
   </sensitiveSpecies>
   <sensitiveSpecies name="Siona lineata" family="Lycaenidae" guid="NBNSYS0000006058" rank="SPECIES" commonName="Black-Veined Moth">
@@ -1396,8 +1394,6 @@
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Catapyrenium psoromoides" family="Laridae" guid="NHMSYS0001476897" rank="SPECIES" commonName="Tree catapyrenium">
-<instances>
-  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="100km" zone="England"/>
 </instances>
 </sensitiveSpecies>                                                                                                                                  
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
@@ -1492,9 +1488,7 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 <sensitiveSpecies name="Pseudocyphellaria aurata" family="Lobariaceae" guid="NHMSYS0001495191" rank="SPECIES" commonName="Green specklebelly">
-    <instances>
-      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-    </instances>                                                                                                                           
+    <instances>                                                                                                                           
 </sensitiveSpecies>
 <sensitiveSpecies name="Myotis alcathoe" family="Vespertilionidae" guid="NHMSYS0020636762" rank="SPECIES" commonName="Whiskered Alcathoe Bat">
 <instances>
