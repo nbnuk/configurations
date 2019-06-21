@@ -39,8 +39,6 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Heterodermia propagulifera" family="Physciaceae" guid="BMSSYS0000046243" rank="SPECIES" commonName="Coralloid rosette-lichen">
     <instances>
-     <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-    </instances>
   </sensitiveSpecies>
   </sensitiveSpecies>
   <sensitiveSpecies name="Siona lineata" family="Lycaenidae" guid="NBNSYS0000006058" rank="SPECIES" commonName="Black-Veined Moth">
@@ -273,7 +271,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Trichomanes speciosum" family="Hymenophyllaceae" guid="NBNSYS0000002028" rank="SPECIES" commonName="Killarney fern">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
       <conservationInstance category="" authority="Natural Resorces Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
       <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
@@ -292,37 +290,47 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Cypripedium calceolus" family="Orchidaceae" guid="NBNSYS0000002284" rank="SPECIES" commonName="Lady's Slipper Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Epipogium aphyllum" family="Orchidaceae" guid="NBNSYS0000002295" rank="SPECIES" commonName="Ghost Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Ophrys fuciflora" family="Orchidaceae" guid="NBNSYS0000002316" rank="SPECIES" commonName="Late Spider Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resorces Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Ophrys insectifera" family="Orchidaceae" guid="NBNSYS0000002318" rank="SPECIES" commonName="Fly Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/> 
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Orchis militaris" family="Orchidaceae" guid="NBNSYS0000002321" rank="SPECIES" commonName="Military Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Orchis simia" family="Orchidaceae" guid="NBNSYS0000002322" rank="SPECIES" commonName="Monkey Orchid">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Minuartia stricta" family="Caryophyllaceae" guid="NBNSYS0000003054" rank="SPECIES" commonName="Teesdale Sandwort">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resorces Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Potentilla rupestris" family="Rosaceae" guid="NBNSYS0000003340" rank="SPECIES" commonName="Rock Cinquefoil">
@@ -332,8 +340,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Saxifraga cernua" family="Saxifragaceae" guid="NBNSYS0000003500" rank="SPECIES" commonName="Drooping saxifrage">
     <instances>
-      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
-      <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Veronica montana" family="Plantaginaceae" guid="NBNSYS0000004103" rank="SPECIES" commonName="Wood Speedwell">
@@ -361,7 +368,9 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Crepis foetida" family="Asteraceae" guid="NBNSYS0000004571" rank="SPECIES" commonName="Stinking Hawk's Beard">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+      <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
     </instances>
   </sensitiveSpecies>
   <sensitiveSpecies name="Vipera berus" family="Viperidae" guid="NBNSYS0000005075" rank="SPECIES" commonName="Adder">
@@ -557,6 +566,7 @@
   </sensitiveSpecies>
   <sensitiveSpecies name="Gentianella ciliata" family="Gentianaceae" guid="NBNSYS0000039919" rank="SPECIES" commonName="Fringed Gentian">
     <instances>
+      <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
       <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
     </instances>
   </sensitiveSpecies>
@@ -936,6 +946,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Cephalanthera rubra" family="Orchidaceae" guid="NHMSYS0000457046" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
@@ -946,58 +957,73 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Dactylorhiza incarnata subsp. ochroleuca" family="Orchidaceae" guid="NHMSYS0000457916" rank="SUBSPECIES" commonName="Early Marsh Orchid">
 <instances>
-  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
-  <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="1km" zone="Wales"/>
+  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                            
 </instances>                                                                                                                               
 </sensitiveSpecies>
 <sensitiveSpecies name="Dryopteris cristata" family="Dryopteridaceae" guid="NHMSYS0000458186" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/> 
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Gladiolus illyricus" family="Iridaceae" guid="NHMSYS0000459073" rank="SPECIES" commonName="Wild Gladiolus">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Himantoglossum hircinum" family="Orchidaceae" guid="NHMSYS0000459709" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Hymenophyllum tunbrigense" family="Hymenophyllaceae" guid="NHMSYS0000459844" rank="SPECIES" commonName="Tunbridge Filmy Fern">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                          
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                             
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Neotinea ustulata" family="Orchidaceae" guid="NHMSYS0000460957" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                             
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Ophrys sphegodes" family="Orchidaceae" guid="NHMSYS0000461300" rank="SPECIES" commonName="Early Spider Orchid">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                              
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Orchis anthropophora" family="Orchidaceae" guid="NHMSYS0000461315" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                            
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Orchis purpurea" family="Orchidaceae" guid="NHMSYS0000461332" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Pulsatilla vulgaris" family="Ranunculaceae" guid="NHMSYS0000462153" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
+  <conservationInstance category="" authority="" dataResourceId="dr805" generalisation="10km" zone="Wales"/>                                                                                                                                
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Serapias parviflora" family="Orchidaceae" guid="NHMSYS0000463460" rank="SPECIES" commonName="">
 <instances>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>                                                                                                                             
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 </sensitiveSpecies>
@@ -1008,7 +1034,7 @@
 </sensitiveSpecies>
 <sensitiveSpecies name="Woodsia ilvensis" family="Woodsiaceae" guid="NHMSYS0000465076" rank="SPECIES" commonName="Oblong woodsia">
 <instances>
-  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="100km" zone="Scotland"/>
+  <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="10km" zone="Scotland"/>
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
   <conservationInstance category="" authority="Natural Resources Wales" dataResourceId="dr805" generalisation="10km" zone="Wales"/>
   <conservationInstance category="" authority="Northern Ireland Environment Agency" dataResourceId="dr1951" generalisation="100km" zone="Northern Ireland"/>
@@ -1396,8 +1422,6 @@
 </instances>
 </sensitiveSpecies>
 <sensitiveSpecies name="Catapyrenium psoromoides" family="Laridae" guid="NHMSYS0001476897" rank="SPECIES" commonName="Tree catapyrenium">
-<instances>
-  <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="100km" zone="England"/>
 </instances>
 </sensitiveSpecies>                                                                                                                                  
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
@@ -1492,9 +1516,7 @@
   <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
 </instances>
 <sensitiveSpecies name="Pseudocyphellaria aurata" family="Lobariaceae" guid="NHMSYS0001495191" rank="SPECIES" commonName="Green specklebelly">
-    <instances>
-      <conservationInstance category="" authority="Natural England" dataResourceId="dr804" generalisation="10km" zone="England"/>
-    </instances>                                                                                                                           
+    <instances>                                                                                                                           
 </sensitiveSpecies>
 <sensitiveSpecies name="Myotis alcathoe" family="Vespertilionidae" guid="NHMSYS0020636762" rank="SPECIES" commonName="Whiskered Alcathoe Bat">
 <instances>
