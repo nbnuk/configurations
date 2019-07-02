@@ -578,6 +578,7 @@
     <field name="easting" type="int" indexed="true" stored="true" multiValued="false" />
     <field name="northing" type="int" indexed="true" stored="true" multiValued="false" />
     <field name="grid_ref_100000" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="grid_ref_50000" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="grid_ref_10000" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="grid_ref_2000" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="grid_ref_1000" type="string" indexed="true" stored="true" multiValued="false" />
