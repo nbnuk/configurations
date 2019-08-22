@@ -584,6 +584,9 @@
     <field name="grid_ref_1000" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="grid_ref_100" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="grid_ref" type="string" indexed="true" stored="true" multiValued="false" />
+
+    <field name="establishment_means_taxon" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="vitality" type="string" indexed="true" stored="true" multiValued="false" />
     <!-- UK NBN fields end -->
 
 
