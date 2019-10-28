@@ -387,3 +387,4 @@ raw_depth	string	verbatimDepth	F	F	F	F
 	string	year	F	F	F	F
 	string	zone	F	F	F	F
 reproductive_condition	string	reproductiveCondition	F	F	F	F
+vitality string	vitality	F	F		F
