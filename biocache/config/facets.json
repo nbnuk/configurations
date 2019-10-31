@@ -148,6 +148,9 @@
   }, {
     "sort": "count",
     "field": "date_precision"
+  }, {
+    "sort": "count",
+    "field": "vitality"
   }]
 }, {
   "title": "Record",
