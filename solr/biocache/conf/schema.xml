@@ -938,7 +938,7 @@
     <field name="raw_depth" type="string" indexed="true" stored="true" multiValued="false" />
 
     <field name="identified_by" type="string" indexed="true" stored="true" multiValued="false" omitNorms="false" />
-    <field name="life_stage" type="textgen" indexed="true" stored="true" multiValued="false" />
+      <field name="life_stage" type="string_lowercase" indexed="true" stored="true" multiValued="true" />
     <field name="occurrence_remarks" type="string" indexed="true" stored="true" multiValued="false" />
 
     <field name="end_day" type="string" indexed="true" stored="true" multiValued="false"  />
