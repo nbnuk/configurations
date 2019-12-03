@@ -117,7 +117,7 @@
     "field": "species_habitats"
   }, {
     "sort": "index",
-    "field": "coordinate_uncertainty"
+    "field": "coordinate_uncertainty_category"
   }, {
     "sort": "count",
     "field": "geospatial_kosher"
