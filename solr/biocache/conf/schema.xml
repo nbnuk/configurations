@@ -638,7 +638,7 @@
     <field name="sensitive" type="string" indexed="true" stored="true" multiValued="false" omitNorms="true" />
     <field name="assertions" type="string" indexed="true" stored="true" multiValued="true"  />
     <field name="assertions_passed" type="string" indexed="true" stored="true" multiValued="true"  />
-    <field name="assertions_unchecked" type="string" indexed="false" stored="false" />
+    <field name="assertions_unchecked" type="string" indexed="false" stored="false" multiValued="true" />
     <field name="assertions_missing" type="string" indexed="true" stored="true" multiValued="true"  />
     <field name="user_assertions" type="string" indexed="true" stored="true" multiValued="false"  />
     <field name="system_assertions" type="string" indexed="true" stored="true" multiValued="false"  />
