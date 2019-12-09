@@ -1,142 +1,11 @@
 CREATE KEYSPACE occ WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '2'}  AND durable_writes = true;
 
-CREATE TABLE occ.loc (
+USE occ;
+
+CREATE TABLE loc (
     rowkey text PRIMARY KEY,
-    cl text,
-    cl1 text,
-    cl10 text,
-    cl100 text,
-    cl101 text,
-    cl102 text,
-    cl103 text,
-    cl104 text,
-    cl105 text,
-    cl109 text,
-    cl11 text,
-    cl110 text,
-    cl111 text,
-    cl112 text,
-    cl113 text,
-    cl114 text,
-    cl115 text,
-    cl116 text,
-    cl117 text,
-    cl118 text,
-    cl119 text,
-    cl12 text,
-    cl120 text,
-    cl121 text,
-    cl122 text,
-    cl123 text,
-    cl124 text,
-    cl125 text,
-    cl126 text,
-    cl127 text,
-    cl128 text,
-    cl129 text,
-    cl13 text,
-    cl130 text,
-    cl131 text,
-    cl132 text,
-    cl133 text,
-    cl134 text,
-    cl135 text,
-    cl136 text,
-    cl137 text,
-    cl138 text,
-    cl139 text,
-    cl14 text,
-    cl140 text,
-    cl141 text,
-    cl142 text,
-    cl143 text,
-    cl144 text,
-    cl145 text,
-    cl146 text,
-    cl147 text,
-    cl148 text,
-    cl149 text,
-    cl15 text,
-    cl150 text,
-    cl151 text,
-    cl152 text,
-    cl153 text,
-    cl154 text,
-    cl155 text,
-    cl156 text,
-    cl157 text,
-    cl158 text,
-    cl159 text,
-    cl16 text,
-    cl160 text,
-    cl161 text,
-    cl18 text,
-    cl2 text,
-    cl20 text,
-    cl21 text,
-    cl23 text,
-    cl24 text,
-    cl25 text,
-    cl26 text,
-    cl27 text,
-    cl28 text,
-    cl29 text,
-    cl3 text,
-    cl33 text,
-    cl35 text,
-    cl36 text,
-    cl37 text,
-    cl39 text,
-    cl4 text,
-    cl47 text,
-    cl49 text,
-    cl5 text,
-    cl50 text,
-    cl51 text,
-    cl52 text,
-    cl53 text,
-    cl54 text,
-    cl55 text,
-    cl56 text,
-    cl57 text,
-    cl58 text,
-    cl59 text,
-    cl6 text,
-    cl60 text,
-    cl62 text,
-    cl63 text,
-    cl64 text,
-    cl65 text,
-    cl67 text,
-    cl68 text,
-    cl69 text,
-    cl7 text,
-    cl70 text,
-    cl71 text,
-    cl72 text,
-    cl74 text,
-    cl76 text,
-    cl8 text,
-    cl84 text,
-    cl85 text,
-    cl86 text,
-    cl87 text,
-    cl88 text,
-    cl89 text,
-    cl9 text,
-    cl90 text,
-    cl91 text,
-    cl92 text,
-    cl93 text,
-    cl94 text,
-    cl95 text,
-    cl96 text,
-    cl97 text,
-    cl98 text,
-    cl99 text,
     decimallatitude text,
     decimallongitude text,
-    el text,
     lat text,
     lon text
 ) WITH bloom_filter_fp_chance = 0.01
@@ -154,7 +23,7 @@ CREATE TABLE occ.loc (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.distribution_outliers (
+CREATE TABLE distribution_outliers (
     rowkey text PRIMARY KEY
 ) WITH bloom_filter_fp_chance = 0.01
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
@@ -171,7 +40,7 @@ CREATE TABLE occ.distribution_outliers (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.attr (
+CREATE TABLE attr (
     rowkey text PRIMARY KEY,
     citation text,
     collectionname text,
@@ -202,7 +71,7 @@ CREATE TABLE occ.attr (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.duplicates (
+CREATE TABLE duplicates (
     rowkey text PRIMARY KEY
 ) WITH bloom_filter_fp_chance = 0.01
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
@@ -219,28 +88,25 @@ CREATE TABLE occ.duplicates (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.qa (
-    rowkey text,
+CREATE TABLE qa (
+    rowkey text PRIMARY KEY,
     code text,
-    userid text,
-    relateduuid text,
     comment text,
     created text,
     name text,
     problemasserted text,
     qastatus text,
     referencerowkey text,
+    relateduuid text,
     snapshot text,
     userdisplayname text,
     useremail text,
     userentityname text,
     userentityuid text,
+    userid text,
     userrole text,
-    uuid text,
-    value text,
-    PRIMARY KEY (rowkey, code, userid, relateduuid)
-) WITH CLUSTERING ORDER BY (code ASC, userid ASC, relateduuid ASC)
-    AND bloom_filter_fp_chance = 0.01
+    value text
+) WITH bloom_filter_fp_chance = 0.01
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
     AND comment = ''
     AND compaction = {'class': 'org.apache.cassandra.db.compaction.LeveledCompactionStrategy'}
@@ -255,8 +121,9 @@ CREATE TABLE occ.qa (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.occ (
-    rowkey text PRIMARY KEY,
+CREATE TABLE occ (
+    rowkey text,
+    dataresourceuid text,
     abcdidentificationqualifier_p text,
     acceptednameusage text,
     acceptednameusageid text,
@@ -307,7 +174,6 @@ CREATE TABLE occ.occ (
     countrycode text,
     countrycode_p text,
     countryconservation text,
-    countryconservation_p text,
     county text,
     cultivarname text,
     cultivated text,
@@ -323,7 +189,6 @@ CREATE TABLE occ.occ (
     dataprovideruid_p text,
     dataresourcename text,
     dataresourcename_p text,
-    dataresourceuid text,
     datasetid text,
     datasetname text,
     datedeleted text,
@@ -358,13 +223,12 @@ CREATE TABLE occ.occ (
     earliestperiodorlowestsystem text,
     easting text,
     easting_p text,
-    el text,
     el_p text,
-    endday_p text,
     enddayofyear text,
+    endday_p text,
     endmonth_p text,
-    endyear text,
     endyear_p text,
+    endyear text,
     establishmentmeans text,
     establishmentmeans_p text,
     establishmentmeanstaxon_p text,
@@ -373,7 +237,6 @@ CREATE TABLE occ.occ (
     eventdate text,
     eventdate_p text,
     eventdateend text,
-    eventdateend_p text,
     eventid text,
     eventremarks text,
     eventtime text,
@@ -414,16 +277,14 @@ CREATE TABLE occ.occ (
     globalconservation text,
     gridreference text,
     gridreference_p text,
-    gridreferencewkt text,
-    gridreferencewkt_p text,
     group text,
     habitat text,
     habitat_p text,
+    habitattaxon_p text,
     higherclassification text,
     highergeography text,
     highergeographyid text,
     highestbiostratigraphiczone text,
-    identification_qa text,
     identificationid text,
     identificationqualifier text,
     identificationqualifier_p text,
@@ -533,6 +394,7 @@ CREATE TABLE occ.occ (
     nomenclaturalcode text,
     nomenclaturalcode_p text,
     nomenclaturalstatus text,
+    nomenclaturalstatus_p text,
     northing text,
     northing_p text,
     occurrenceattributes text,
@@ -551,7 +413,6 @@ CREATE TABLE occ.occ (
     organismquantitytype text,
     organismremarks text,
     organismscope text,
-    organismstatus text,
     originaldecimallatitude text,
     originaldecimallongitude text,
     originalnameusage text,
@@ -588,7 +449,6 @@ CREATE TABLE occ.occ (
     relationshipestablisheddate text,
     relationshipofresource text,
     relationshipremarks text,
-    reprocessing_qa text,
     reproductivecondition text,
     resourceid text,
     resourcerelationshipid text,
@@ -604,6 +464,7 @@ CREATE TABLE occ.occ (
     scientificname_p text,
     scientificnameaddendum text,
     scientificnameauthorship text,
+    scientificnameauthorship_p text,
     scientificnameid text,
     scientificnamewithoutauthor text,
     secondarycollectors text,
@@ -684,7 +545,8 @@ CREATE TABLE occ.occ (
     waterbody text,
     year text,
     year_p text,
-    zone text
+    zone text,
+    PRIMARY KEY (rowkey)
 ) WITH bloom_filter_fp_chance = 0.01
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
     AND comment = ''
@@ -700,7 +562,7 @@ CREATE TABLE occ.occ (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.queryassert (
+CREATE TABLE queryassert (
     rowkey text PRIMARY KEY
 ) WITH bloom_filter_fp_chance = 0.01
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
@@ -717,7 +579,7 @@ CREATE TABLE occ.queryassert (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.taxon (
+CREATE TABLE taxon (
     rowkey text PRIMARY KEY,
     commonname text,
     conservation text,
@@ -737,9 +599,8 @@ CREATE TABLE occ.taxon (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.upload (
-    rowkey text PRIMARY KEY,
-    customindexfields text
+CREATE TABLE upload (
+    rowkey text PRIMARY KEY
 ) WITH bloom_filter_fp_chance = 0.01
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
     AND comment = ''
@@ -755,9 +616,8 @@ CREATE TABLE occ.upload (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.occ_duplicates (
-    rowkey text PRIMARY KEY,
-    value text
+CREATE TABLE occ_duplicates (
+    rowkey text PRIMARY KEY
 ) WITH bloom_filter_fp_chance = 0.01
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
     AND comment = ''
@@ -773,7 +633,7 @@ CREATE TABLE occ.occ_duplicates (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.occ_outliers (
+CREATE TABLE occ_outliers (
     rowkey text PRIMARY KEY,
     jackknife text
 ) WITH bloom_filter_fp_chance = 0.01
@@ -791,7 +651,7 @@ CREATE TABLE occ.occ_outliers (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.occ_uuid (
+CREATE TABLE occ_uuid (
     rowkey text PRIMARY KEY,
     value text
 ) WITH bloom_filter_fp_chance = 0.01
@@ -809,7 +669,7 @@ CREATE TABLE occ.occ_uuid (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.qid (
+CREATE TABLE qid (
     rowkey text PRIMARY KEY,
     bbox text,
     displaystring text,
@@ -834,7 +694,7 @@ CREATE TABLE occ.qid (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.outliers (
+CREATE TABLE outliers (
     rowkey text PRIMARY KEY,
     jackknifeoutliers text,
     jackknifestats text
@@ -853,7 +713,7 @@ CREATE TABLE occ.outliers (
     AND read_repair_chance = 0.0
     AND speculative_retry = '99PERCENTILE';
 
-CREATE TABLE occ.dellog (
+CREATE TABLE dellog (
     rowkey text PRIMARY KEY,
     id text,
     value text
@@ -861,6 +721,23 @@ CREATE TABLE occ.dellog (
     AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
     AND comment = ''
     AND compaction = {'class': 'org.apache.cassandra.db.compaction.LeveledCompactionStrategy'}
+    AND compression = {'chunk_length_in_kb': '64', 'class': 'org.apache.cassandra.io.compress.LZ4Compressor'}
+    AND crc_check_chance = 1.0
+    AND dclocal_read_repair_chance = 0.1
+    AND default_time_to_live = 0
+    AND gc_grace_seconds = 864000
+    AND max_index_interval = 2048
+    AND memtable_flush_period_in_ms = 0
+    AND min_index_interval = 128
+    AND read_repair_chance = 0.0
+    AND speculative_retry = '99PERCENTILE';
+
+CREATE TABLE occ.loc_new (
+    rowkey text PRIMARY KEY
+) WITH bloom_filter_fp_chance = 0.01
+    AND caching = {'keys': 'ALL', 'rows_per_partition': 'NONE'}
+    AND comment = ''
+    AND compaction = {'class': 'org.apache.cassandra.db.compaction.SizeTieredCompactionStrategy', 'max_threshold': '32', 'min_threshold': '4'}
     AND compression = {'chunk_length_in_kb': '64', 'class': 'org.apache.cassandra.io.compress.LZ4Compressor'}
     AND crc_check_chance = 1.0
     AND dclocal_read_repair_chance = 0.1

@@ -92,7 +92,8 @@ duplicate_inst	string	duplicates	T	F		F
 record_number	string	recordNumber	F	F		F
 first_loaded_date	date	firstLoaded	F	F		F
 name_match_metric	string	nameMatchMetric_p	F	F		F
-life_stage	string	lifeStage	F	F		F
+life_stage	string	lifeStage	T	F		F
+habitats_taxon	string	habitatTaxon_p	T	F		F
 outlier_layer	string	outlierForLayers_p	T	T		F
 # outlier_layer_count - based on the count in outlier_layer	F
 taxonomic_issue	string	taxonomicIssue_p	F	F		F
@@ -149,7 +150,7 @@ behavior	string	behavior	F	F	F	F
 	string	collectionID	F	F	F	F
 	string	continent	F	F	F	F
 	string	coordinatePrecision	F	F	F	F
-	string	coordinatePrecision_p	F	F	F	F
+#	string	coordinatePrecision_p	F	F	F	F
 	string	coordinateUncertaintyInMeters	F	F	F	F
 #	string	country	F	F	F	F
 county	string	county	F	F	F	F
@@ -292,7 +293,7 @@ island	string	island	F	F	F	F
 	string	nearNamedPlaceRelationTo	F	F	F	F
 	string	nomenclaturalCode	F	F	F	F
 	string	nomenclaturalCode_p	F	F	F	F
-	string	nomenclaturalStatus	F	F	F	F
+nomenclatural_status	string	nomenclaturalStatus_p	F	F	F	F
 	string	northing	F	F	F	F
 occurrence_remarks	string	occurrenceRemarks	F	F	F	F
 	string	occurrenceStatus	F	F	F	F
@@ -338,7 +339,7 @@ rightsholder	string	rightsholder	F	F	F	F
 	string	sampleSizeUnit	F	F	F	F
 	string	sampleSizeValue	F	F	F	F
 	string	scientificNameAddendum	F	F	F	F
-	string	scientificNameAuthorship	F	F	F	F
+scientific_name_authorship	string	scientificNameAuthorship	F	F	F	F
 	string	scientificNameID	F	F	F	F
 	string	scientificNameWithoutAuthor	F	F	F	F
 	string	secondaryCollectors	F	F	F	F
@@ -387,3 +388,4 @@ raw_depth	string	verbatimDepth	F	F	F	F
 	string	year	F	F	F	F
 	string	zone	F	F	F	F
 reproductive_condition	string	reproductiveCondition	F	F	F	F
+vitality	string	vitality	F	F	F	F
