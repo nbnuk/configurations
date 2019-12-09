@@ -1,340 +1,340 @@
 [
-  {
-    "speciesGroup": "Animals",
-    "taxonRank": "kingdom",
-    "included": [
-      "Animalia"
-    ]
-  },
-  {
-    "speciesGroup": "Amphibians",
-    "taxonRank": "order",
-    "included": [
-      "ANURA",
-      "CAUDATA"
-    ],
-    "parent": "Animals"
-  },
-  {
-    "speciesGroup": "Arthropods",
-    "taxonRank": "phylum",
-    "included": [
-      "Arthropoda"
-    ],
-    "parent": "Animals"
-  },
-  {
-    "speciesGroup": "Crustaceans",
-    "taxonRank": "class",
-    "included": [
-      "BRANCHIOPODA",
-      "MALACOSTRACA",
-      "MAXILLOPODA",
-      "OSTRACODA"
-    ],
-    "parent": "Arthropods"
-  },
-  {
-    "speciesGroup": "Insects",
-    "taxonRank": "order",
-    "included": [
-      "ARCHAEOGNATHA",
-      "COLEOPTERA",
-      "DERMAPTERA",
-      "DICTYOPTERA",
-      "DIPTERA",
-      "EPHEMEROPTERA",
-      "HEMIPTERA",
-      "HYMENOPTERA",
-      "LEPIDOPTERA",
-      "MANTODEA",
-      "MECOPTERA",
-      "MEGALOPTERA",
-      "NEUROPTERA",
-      "ODONATA",
-      "ORTHOPTERA",
-      "PHASMIDA",
-      "PHTHIRAPTERA",
-      "PLECOPTERA",
-      "PSOCOPTERA",
-      "RAPHIDIOPTERA",
-      "SIPHONAPTERA",
-      "STREPSIPTERA",
-      "THYSANOPTERA",
-      "TRICHOPTERA",
-      "ZYGENTOMA"
-
-    ],
-    "parent": "Arthropods"
-  },
-  {
-    "speciesGroup": "Myriapods",
-    "taxonRank": "class",
-    "included": [
-      "CHILOPODA",
-      "DIPLOPODA",
-      "PAUROPODA",
-      "SYMPHYLA"
-    ],
-    "parent": "Arthropods"
-  },
-  {
-    "speciesGroup": "SpidersAndAllies",
-    "taxonRank": "order",
-    "included": [
-      "Pantopoda",
-      "Araneae",
-      "Ixodida",
-      "Opiliones",
-      "Oribatida",
-      "Prostigmata",
-      "Pseudoscorpiones",
-      "Scorpiones"
-    ],
-    "parent": "Arthropods"
-  },
-  {
-    "speciesGroup": "Birds",
-    "taxonRank": "order",
-    "included": [
-      "ANSERIFORMES",
-      "APODIFORMES",
-      "BUCEROTIFORMES",
-      "CHARADRIIFORMES",
-      "CICONIIFORMES",
-      "COLUMBIFORMES",
-      "CORACIIFORMES",
-      "CUCULIFORMES",
-      "FALCONIFORMES",
-      "GALLIFORMES",
-      "GAVIIFORMES",
-      "GRUIFORMES",
-      "PASSERIFORMES",
-      "PELECANIFORMES",
-      "PHOENICOPTERIFORMES",
-      "PICIFORMES",
-      "PODICIPEDIFORMES",
-      "PROCELLARIIFORMES",
-      "RHEIFORMES",
-      "STRIGIFORMES",
-      "STRUTHIONIFORMES",
-      "UPUPIFORMES"
-    ],
-    "parent": "Animals"
-  },
-  {
-    "speciesGroup": "Fishes",
-    "taxonRank": "class",
-    "included": [
-      "ACTINOPTERYGII",
-      "CEPHALASPIDOMORPHI",
-      "ELASMOBRANCHII",
-      "HOLOCEPHALI",
-      "MYXINI"
-    ],
-    "parent": "Animals"
-  },
-
-
-  {
-    "speciesGroup": "Mammals",
-    "taxonRank": "order",
-    "included": [
-      "ARTIODACTYLA",
-      "CARNIVORA",
-      "CETARTIODACTYLA",
-      "CHIROPTERA",
-      "DIPROTODONTIA",
-      "INSECTIVORA",
-      "LAGOMORPHA",
-      "PERRISODACTYLA",
-      "PRIMATES",
-      "RODENTIA"
-    ],
-    "parent": "Animals"
-  },
-  {
-    "speciesGroup": "Molluscs",
-    "taxonRank": "class",
-    "included": [
-      "BIVALVIA",
-      "CAUDOFOVEATA",
-      "CEPHALOPODA",
-      "GASTROPODA",
-      "POLYPLACOPHORA",
-      "SCAPHOPODA",
-      "SOLENOGASTRES"
-    ],
-    "parent": "Animals"
-  },
-  {
-    "speciesGroup": "Reptiles",
-    "taxonRank": "order",
-    "included": [
-      "SQUAMATA",
-      "TESTUDINES"
-    ],
-    "parent": "Animals"
-  },
-  {
-    "speciesGroup": "Worms",
-    "taxonRank": "phylum",
-    "included": [
-      "ANNELIDA",
-      "CHAETOGNATHA",
-      "ECHIURA",
-      "NEMATODA",
-      "NEMATOMORPHA",
-      "NEMERTEA",
-      "PLATYHELMINTHES",
-      "PRIAPULIDA",
-      "SIPUNCULA"
-    ],
-    "parent": "Animals"
-  },
-  {
-    "speciesGroup": "Bacteria",
-    "taxonRank": "kingdom",
-    "included": [
-      "Bacteria"
-    ]
-  },
-  {
-    "speciesGroup": "Chromista",
-    "taxonRank": "kingdom",
-    "included": [
-      "Chromista"
-    ]
-  },
-  {
-    "speciesGroup": "Fungi",
-    "taxonRank": "phylum",
-    "included": [
-      "Ascomycota",
-      "Basidiomycota",
-      "Chytridiomycota",
-      "Zygomycota",
-      "Glomeromycota"
-    ]
-  },
-  {
-    "speciesGroup": "Plants",
-    "taxonRank": "kingdom",
-    "included": [
-      "Plantae"
-    ]
-  },
-  {
-    "speciesGroup": "Algae",
-    "taxonRank": "division",
-    "included": [
-      "Algae",
-      "Charophyta",
-      "Chlorophycota",
-      "Chlorophycota",
-      "Encrusting green algae",
-      "Filamentous green algae",
-      "Filamentous red algae",
-      "Foliose green algae",
-      "Foliose red algae",
-      "Rhodophycota indet. (non-calc. crusts)"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "Algae",
-    "taxonRank": "phylum",
-    "included": [
-      "Rhodophyta",
-      "Conjugatophyta",
-      "Glaucophyta",
-      "Charophyta",
-      "Magnoliophyta",
-      "Chlorophyta"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "Bryophytes",
-    "taxonRank": "phylum",
-    "included": [
-      "Bryophyta",
-      "Marchantiophyta"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "ClubmossesAndFirmosses",
-    "taxonRank": "order",
-    "included": [
-      "Selaginellales",
-      "Lycopodiales",
-      "Lycopodiopsida"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "FernsAndAllies",
-    "taxonRank": "phylum",
-    "included": [
-      "Pteridophyta"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "FernsAndAllies",
-    "taxonRank": "order",
-    "included": [
-      "Isoetales",
-      "Equisetales"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "FloweringPlants",
-    "taxonRank": "division",
-    "included": [
-      "Anthophyta"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "FloweringPlants",
-    "taxonRank": "class",
-    "included": [
-      "Magnoliopsida"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "GymnospermsAndGinkgo",
-    "taxonRank": "class",
-    "included": [
-      "Pinopsida"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "GymnospermsAndGinkgo",
-    "taxonRank": "class",
-    "included": [
-      "Ginkgoopsida"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "Hornworts",
-    "taxonRank": "division",
-    "included": [
-      "Anthocerophyta"
-    ],
-    "parent": "Plants"
-  },
-  {
-    "speciesGroup": "Protozoa",
-    "taxonRank": "kingdom",
-    "included": [
-      "Protozoa"
-    ]
-  }
+    {
+        "speciesGroup": "Animals",
+        "taxonRank": "kingdom",
+        "included": [
+          "Animalia"
+        ]
+    },
+    {
+        "speciesGroup": "Amphibians",
+        "taxonRank": "order",
+        "included": [
+            "ANURA",
+            "CAUDATA"   
+        ],
+        "parent": "Animals"
+    },
+    {
+        "speciesGroup": "Arthropods",
+        "taxonRank": "phylum",
+        "included": [
+            "Arthropoda"     
+        ],
+        "parent": "Animals"
+    },
+    {
+        "speciesGroup": "Crustaceans",
+        "taxonRank": "class",
+        "included": [
+            "BRANCHIOPODA",
+            "MALACOSTRACA",
+            "MAXILLOPODA",
+            "OSTRACODA"
+        ],
+        "parent": "Arthropods"
+    },
+    {
+        "speciesGroup": "Insects",
+        "taxonRank": "order",
+        "included": [
+            "ARCHAEOGNATHA",
+                "COLEOPTERA",
+                "DERMAPTERA",
+                "DICTYOPTERA",
+                "DIPTERA",
+                "EPHEMEROPTERA",
+                "HEMIPTERA",
+                "HYMENOPTERA",
+                "LEPIDOPTERA",
+                "MANTODEA",
+                "MECOPTERA",
+                "MEGALOPTERA",
+                "NEUROPTERA",
+                "ODONATA",
+                "ORTHOPTERA",
+                "PHASMIDA",
+                "PHTHIRAPTERA",
+                "PLECOPTERA",
+                "PSOCOPTERA",
+                "RAPHIDIOPTERA",
+                "SIPHONAPTERA",
+                "STREPSIPTERA",
+                "THYSANOPTERA",
+                "TRICHOPTERA",
+                "ZYGENTOMA"
+                
+        ],
+        "parent": "Arthropods"
+    },
+    {
+        "speciesGroup": "Myriapods",
+        "taxonRank": "class",
+        "included": [
+            "CHILOPODA",
+            "DIPLOPODA",
+            "PAUROPODA",
+            "SYMPHYLA"
+        ],
+        "parent": "Arthropods"
+    },
+    {
+        "speciesGroup": "SpidersAndAllies",
+        "taxonRank": "order",
+        "included": [
+            "Pantopoda",
+             "Araneae",
+             "Ixodida",
+             "Opiliones",
+             "Oribatida",
+              "Prostigmata",
+             "Pseudoscorpiones",
+             "Scorpiones"
+        ],
+        "parent": "Arthropods"
+    },
+    {
+        "speciesGroup": "Birds",
+        "taxonRank": "order",
+        "included": [
+            "ANSERIFORMES",
+                "APODIFORMES",
+                "BUCEROTIFORMES",
+                "CHARADRIIFORMES",
+                "CICONIIFORMES",
+                "COLUMBIFORMES",
+                "CORACIIFORMES",
+                "CUCULIFORMES",
+                "FALCONIFORMES",
+                "GALLIFORMES",
+                "GAVIIFORMES",
+                "GRUIFORMES",
+                "PASSERIFORMES",
+                "PELECANIFORMES",
+                "PHOENICOPTERIFORMES",
+                "PICIFORMES",
+                "PODICIPEDIFORMES",
+                "PROCELLARIIFORMES",
+                "RHEIFORMES",
+                "STRIGIFORMES",
+                "STRUTHIONIFORMES",
+                "UPUPIFORMES"      
+        ],
+        "parent": "Animals"
+    },
+    {
+        "speciesGroup": "Fishes",
+        "taxonRank": "class",
+        "included": [
+            "ACTINOPTERYGII",
+            "CEPHALASPIDOMORPHI",
+            "ELASMOBRANCHII",
+            "HOLOCEPHALI",
+            "MYXINI"
+        ],
+        "parent": "Animals"
+    },
+    
+    
+    {
+        "speciesGroup": "Mammals",
+        "taxonRank": "order",
+        "included": [
+            "ARTIODACTYLA",
+                "CARNIVORA",
+                "CETARTIODACTYLA",
+                "CHIROPTERA",
+                "DIPROTODONTIA",
+                "INSECTIVORA",
+                "LAGOMORPHA",
+                "PERRISODACTYLA",
+                "PRIMATES",
+                "RODENTIA"
+        ],
+        "parent": "Animals"
+    },
+    {
+        "speciesGroup": "Molluscs",
+        "taxonRank": "class",
+        "included": [
+            "BIVALVIA",
+            "CAUDOFOVEATA",
+            "CEPHALOPODA",
+            "GASTROPODA",
+            "POLYPLACOPHORA",
+            "SCAPHOPODA",
+            "SOLENOGASTRES"
+        ],
+        "parent": "Animals"
+    },
+    {
+        "speciesGroup": "Reptiles",
+        "taxonRank": "order",
+        "included": [
+            "SQUAMATA",
+            "TESTUDINES"
+        ],
+        "parent": "Animals"
+    },
+    {
+        "speciesGroup": "Worms",
+        "taxonRank": "phylum",
+        "included": [
+            "ANNELIDA",
+            "CHAETOGNATHA",
+            "ECHIURA",
+            "NEMATODA",
+            "NEMATOMORPHA",
+            "NEMERTEA",
+            "PLATYHELMINTHES",
+            "PRIAPULIDA",
+            "SIPUNCULA"
+        ],
+        "parent": "Animals"
+    },
+    {
+        "speciesGroup": "Bacteria",
+        "taxonRank": "kingdom",
+        "included": [
+            "Bacteria"
+        ]
+    },
+    {
+        "speciesGroup": "Chromista",
+        "taxonRank": "kingdom",
+        "included": [
+            "Chromista"
+        ]
+    },
+    {
+        "speciesGroup": "Fungi",
+        "taxonRank": "phylum",
+        "included": [
+            "Ascomycota",
+            "Basidiomycota",
+            "Chytridiomycota",
+             "Zygomycota",
+            "Glomeromycota"
+        ]
+    },
+    {
+        "speciesGroup": "Plants",
+        "taxonRank": "kingdom",
+        "included": [
+            "Plantae"
+        ]
+    },
+    {
+        "speciesGroup": "Algae",
+        "taxonRank": "division",
+        "included": [
+            "Algae",
+            "Charophyta",
+            "Chlorophycota",
+            "Chlorophycota",
+            "Encrusting green algae",
+            "Filamentous green algae",
+            "Filamentous red algae",
+            "Foliose green algae",
+            "Foliose red algae",
+            "Rhodophycota indet. (non-calc. crusts)"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "Algae",
+        "taxonRank": "phylum",
+        "included": [
+            "Rhodophyta",
+            "Conjugatophyta",
+            "Glaucophyta",
+            "Charophyta",
+            "Magnoliophyta",
+            "Chlorophyta"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "Bryophytes",
+        "taxonRank": "phylum",
+        "included": [
+            "Bryophyta",
+            "Marchantiophyta"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "ClubmossesAndFirmosses",
+        "taxonRank": "order",
+        "included": [
+            "Selaginellales",
+            "Lycopodiales",
+            "Lycopodiopsida"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "FernsAndAllies",
+        "taxonRank": "phylum",
+        "included": [
+            "Pteridophyta"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "FernsAndAllies",
+        "taxonRank": "order",
+        "included": [
+            "Isoetales",
+            "Equisetales"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "FloweringPlants",
+        "taxonRank": "division",
+        "included": [
+            "Anthophyta"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "FloweringPlants",
+        "taxonRank": "class",
+        "included": [
+            "Magnoliopsida"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "GymnospermsAndGinkgo",
+        "taxonRank": "class",
+        "included": [
+            "Pinopsida"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "GymnospermsAndGinkgo",
+        "taxonRank": "class",
+        "included": [
+            "Ginkgoopsida"        
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "Hornworts",
+        "taxonRank": "division",
+        "included": [
+             "Anthocerophyta"
+        ],
+        "parent": "Plants"
+    },
+    {
+        "speciesGroup": "Protozoa",
+        "taxonRank": "kingdom",
+        "included": [
+            "Protozoa"
+        ]
+    }
 ]
