@@ -422,6 +422,7 @@
     <field name="parentGuid" type="string" indexed="true" stored="true" omitNorms="true" />
     <field name="otherGuid" type="string" indexed="true" stored="true" required="false" multiValued="true"/>
     <field name="synonym" type="string" indexed="true" stored="true" multiValued="true" omitNorms="false" />
+    <field name="synonymComplete" type="string" indexed="true" stored="true" multiValued="true" omitNorms="false" />
     <field name="scientificName" type="string" indexed="true" stored="true" omitNorms="false" />
     <field name="scientificNameAuthorship" type="string" indexed="true" stored="true" omitNorms="false" />
     <field name="nameComplete" type="string" indexed="true" stored="true" omitNorms="false" />
@@ -517,6 +518,7 @@
     <!--  NC:2013-02-08 remove the omitTermFreqAndPositions because this setting will cause an exception when searching for a phrase -->
     <field name="stopped_common_name" type="stopped_common_name" indexed="true" stored="false" multiValued="true" omitNorms="true" />
     <field name="name_complete" type="name_complete" indexed="true" stored="false" multiValued="true" omitNorms="true" omitTermFreqAndPositions="true"/>
+    <field name="scientific_name" type="name_complete" indexed="true" stored="false" multiValued="false" omitNorms="true"/>
     <field name="auto_name_exact" type="name_complete" indexed="true" stored="false" multiValued="true" omitNorms="true" omitTermFreqAndPositions="true"/>
 
     <!-- Fields used to rank exact matches higher -->
@@ -632,6 +634,8 @@
   <copyField source="scientificName" dest="scientificName_suggest_edge" />
   <copyField source="scientificName" dest="scientificName_suggest_ngram" />
   <copyField source="scientificName" dest="scientificName_s" />
+  <copyField source="scientificName" dest="scientific_name" />
+  <copyField source="nameComplete" dest="name_complete" />
 
   <copyField source="commonNameSingle" dest="commonNameSingle_suggest" />
   <copyField source="commonNameSingle" dest="commonNameSingle_suggest_edge" />
