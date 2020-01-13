@@ -953,6 +953,15 @@
     <field name="geohash_grid"  type="geohash_poly"  indexed="true" stored="true"  multiValued="false" />
     <!-- RR added NBN end -->
 
+    <!-- NBN Two Tier - high resolution fields -->
+    <field name="highresolution" type="string" indexed="true" stored="true" multiValued="false" omitNorms="true" />
+    <field name="highresolution_latitude" type="tdouble" indexed="false" stored="true" multiValued="false" />
+    <field name="highresolution_longitude" type="tdouble" indexed="false" stored="true" multiValued="false" />
+    <field name="highresolution_coordinate_uncertainty" type="tdouble" indexed="true" stored="true" multiValued="false" />
+    <field name="highresolution_grid_reference" type="string" indexed="false" stored="true" multiValued="false" />
+    <field name="highresolution_locality" type="string" indexed="false" stored="true" multiValued="false" />
+    <!-- NBN Two Tier - end -->
+
     <!-- Some ALA dynamic fields -->
     <dynamicField name="*_s" type="string" indexed="true" stored="false" omitNorms="true" />
     <dynamicField name="*_d" type="double" indexed="true" stored="true" omitNorms="true" />
