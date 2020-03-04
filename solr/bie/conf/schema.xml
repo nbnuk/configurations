@@ -468,6 +468,11 @@
     <!-- added July 2018 -->
     <field name="nameVariant" type="string" indexed="true" stored="true" required="false" multiValued="true"/>
 
+    <!-- for idxtype=regionfeatured mapping -->
+    <field name="point-0.0001" type="string" indexed="true" stored="true" omitNorms="true" />
+    <field name="longitude" type="tdouble" indexed="true" stored="true" multiValued="false" />
+    <field name="latitude" type="tdouble" indexed="true" stored="true" multiValued="false" />
+
     <!-- higher taxonomy -->
     <field name="speciesGroup" type="string" indexed="true" stored="true" multiValued="true" omitNorms="true" />
     <field name="speciesSubgroup" type="string" indexed="true" stored="true" multiValued="true" omitNorms="true" />
