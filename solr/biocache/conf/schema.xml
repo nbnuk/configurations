@@ -969,7 +969,7 @@
     <!-- They are being stored just in case they need to be faceted on -->
     <!-- el* was double RR NBN -->
     <dynamicField name="el*" type="string" indexed="true" stored="true" omitNorms="true" />
-    <dynamicField name="cl*" type="string" indexed="true" stored="true" omitNorms="true" multiValued="true" />
+    <dynamicField name="cl*" type="string" indexed="true" stored="true" omitNorms="true" />
     <!-- NBN make cl* multivalue -->
     <dynamicField name="dr*" type="string" indexed="true" stored="false" omitNorms="true" />
 
