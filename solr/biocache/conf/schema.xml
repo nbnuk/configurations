@@ -951,6 +951,10 @@
     <field name="end_year" type="string" indexed="true" stored="true" multiValued="false"  />
     <!-- <field name="geohash_grid"  type="geohash"  indexed="true" stored="true"  multiValued="false" /> -->
     <field name="geohash_grid"  type="geohash_poly"  indexed="true" stored="true"  multiValued="false" />
+
+    <!-- NBN May 2020 -->
+    <field name="raw_taxon_id" type="string" indexed="true" stored="true" omitNorms="true" />
+    <field name="raw_sampling_protocol" type="string" indexed="true" stored="true" omitNorms="true" />
     <!-- RR added NBN end -->
 
     <!-- Some ALA dynamic fields -->
