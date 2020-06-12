@@ -997,8 +997,8 @@
   <!-- Fields needed to be added because of compatibility issue with 1.x version -->
   <copyField source="occurrence_status" dest="occurrence_status_s"/>
   <copyField source="identification_qualifier" dest="identification_qualifier_s"/>
-  <copyField source="elevation_d" dest="elevation_d_rng"/>
-  <copyField source="min_elevation_d" dest="min_elevation_d_rng"/>
+  <!-- <copyField source="elevation_d" dest="elevation_d_rng"/>
+  <copyField source="min_elevation_d" dest="min_elevation_d_rng"/> -->
 
   <!-- SOLR 4.0 spatial support -->
   <copyField source="lat_long" dest="quad"/>
