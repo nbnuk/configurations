@@ -591,7 +591,8 @@
     <field name="scientific_name_authorship" type="string" indexed="true" stored="true" omitNorms="true" />
     <field name="nomenclatural_status" type="string" indexed="true" stored="true" omitNorms="true" />
     <field name="habitats_taxon" type="string" indexed="true" stored="true" multiValued="true"/>
-    <field name="coordinate_uncertainty_category" type="string" indexed="true" stored="true" multiValued="false"/>
+    <!-- <field name="coordinate_uncertainty_category" type="string" indexed="true" stored="true" multiValued="false"/> --><!-- RR remove July 2020 -->
+    <field name="grid_size" type="tint" indexed="true" stored="true" multiValued="false"/> <!-- RR add July 2020 -->
     <!-- UK NBN fields end -->
 
 
